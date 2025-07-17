@@ -119,13 +119,18 @@ const USMap: React.FC<USMapProps> = ({ onStateClick, selectedState }) => {
 
     const path = d3.geoPath().projection(projection);
 
-    const states = feature(mapData, mapData.objects.states);
+
+    // TopoJSON feature returns either a FeatureCollection or a Feature, so we need to type guard
+    const statesTopo = feature(mapData, mapData.objects.states);
+    const statesFeatures: GeoJSON.Feature[] = (statesTopo && 'features' in statesTopo)
+      ? (statesTopo.features as GeoJSON.Feature[])
+      : [];
 
     svg.selectAll('path')
-      .data(states.features)
+      .data(statesFeatures)
       .enter()
       .append('path')
-      .attr('d', path)
+      .attr('d', (d: any) => path(d) as string)
       .attr('class', 'state-path')
       .style('fill', (d: any) => {
         const stateName = d.properties.name;
@@ -135,17 +140,17 @@ const USMap: React.FC<USMapProps> = ({ onStateClick, selectedState }) => {
       .style('stroke', '#FFFFFF')
       .style('stroke-width', '1px')
       .style('cursor', 'pointer')
-      .on('mouseover', function(event, d: any) {
+      .on('mouseover', function(_, d: any) {
         if (selectedState?.name !== d.properties.name) {
           d3.select(this).style('fill', '#D1D5DB');
         }
       })
-      .on('mouseout', function(event, d: any) {
+      .on('mouseout', function(_, d: any) {
         if (selectedState?.name !== d.properties.name) {
           d3.select(this).style('fill', '#E5E7EB');
         }
       })
-      .on('click', function(event, d: any) {
+      .on('click', function(_, d: any) {
         const stateName = d.properties.name;
         const stateData = stateGovernanceData[stateName];
         if (stateData) {
