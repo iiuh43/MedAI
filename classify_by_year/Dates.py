@@ -4,7 +4,7 @@ import fitz  # PyMuPDF
 import re
 from io import BytesIO
 
-# Load your file (change if using .xlsx)
+# Load file
 df = pd.read_csv("filtered_relevant.csv")
 
 if "PDF Link" not in df.columns:
