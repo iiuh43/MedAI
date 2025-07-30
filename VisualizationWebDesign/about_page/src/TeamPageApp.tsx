@@ -1,6 +1,6 @@
 import React from "react";
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
-import { TeamPage } from "./screens/TeamPage";
+import { TeamPage } from "./screens/About/TeamPage";
 
 const router = createBrowserRouter([
   {

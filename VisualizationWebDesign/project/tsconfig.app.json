@@ -24,5 +24,5 @@
   },
   "include": [
     "src"
-  ]
+, "../about_page/src/TeamPageApp.tsx", "../about_page/src/main.tsx"  ]
 }
