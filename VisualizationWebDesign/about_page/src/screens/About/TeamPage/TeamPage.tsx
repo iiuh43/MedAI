@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import { Link } from "react-router-dom";
 import {
   Avatar,
@@ -95,43 +95,36 @@ export const TeamPage = (): JSX.Element => {
     { name: "Home", path: "/" },
     { name: "Search", path: "/search" },
     { name: "About", path: "/about" },
-    { name: "Team", path: "/team-page" },
+    { name: "Team", path: "/teams" },
   ];
 
   return (
     <main className="bg-[#e7e7e7] flex flex-row justify-center w-full">
       <div className="bg-[#e7e7e7] w-full max-w-[1560px] min-h-screen relative px-4">
         {/* Header with logo and navigation */}
-        <header className="flex justify-between items-center py-12">
-          <div className="flex items-center gap-4">
-            <img
-              className="h-[79px] w-auto object-cover"
-              alt="Haclab logo"
-              src="/haclab-logo-1.png"
-            />
+        <header className="flex items-center px-[89px] pt-[68px] gap-11">
+          <div className="flex items-start gap-11">
             <img
               className="h-[107px] w-auto object-cover"
-              alt="University logo"
-              src="/image-1.png"
+              alt="Emory Logo"
+              src="/emory_logo.png"
+            />
+            <img
+              className="h-[79px] w-auto object-cover"
+              alt="HAClab Logo"
+              src="/haclab_logo.png"
             />
           </div>
-
           <NavigationMenu>
             <NavigationMenuList className="flex gap-6">
               {navItems.map((item) => (
                 <NavigationMenuItem key={item.name}>
-                  {item.name === "Team" ? (
-                    <Link
-                      to={item.path}
-                      className="font-body-text text-black text-[length:var(--body-text-font-size)] tracking-[var(--body-text-letter-spacing)] leading-[var(--body-text-line-height)] [font-style:var(--body-text-font-style)]"
-                    >
-                      {item.name}
-                    </Link>
-                  ) : (
-                    <span className="font-body-text text-black text-[length:var(--body-text-font-size)] tracking-[var(--body-text-letter-spacing)] leading-[var(--body-text-line-height)] [font-style:var(--body-text-font-style)]">
-                      {item.name}
-                    </span>
-                  )}
+                  <Link
+                    to={item.path}
+                    className="font-body-text text-black text-[length:var(--body-text-font-size)] tracking-[var(--body-text-letter-spacing)] leading-[var(--body-text-line-height)] [font-style:var(--body-text-font-style)]"
+                  >
+                    {item.name}
+                  </Link>
                 </NavigationMenuItem>
               ))}
             </NavigationMenuList>
