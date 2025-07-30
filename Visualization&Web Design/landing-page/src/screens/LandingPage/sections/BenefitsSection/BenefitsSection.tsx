@@ -1,7 +1,7 @@
 import React from "react";
 import { Card, CardContent } from "../../../../components/ui/card";
 
-export const BenefitsSection = (): JSX.Element => {
+export const BenefitsSection: React.FC = () => {
   const benefits = [
     {
       title: "AI Powered Search",

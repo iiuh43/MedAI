@@ -1,4 +1,4 @@
-
+import React from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { Button } from "../../../../components/ui/button";
 import {
@@ -7,7 +7,7 @@ import {
   NavigationMenuList,
 } from "../../../../components/ui/navigation-menu";
 
-export const ProjectOverviewSection = (): JSX.Element => {
+export const ProjectOverviewSection: React.FC = () => {
   const navItems = [
     { text: "Home", path: "/landing-page", isLink: true },
     { text: "Search", path: "", isLink: false },

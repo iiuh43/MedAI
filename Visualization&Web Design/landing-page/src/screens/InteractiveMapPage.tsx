@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
-import Header from '../components/Header.tsx';
-import USMap from '../components/USMap.tsx';
-import StateInfoPanel from '../components/StateInfoPanel.tsx';
-import MapLegend from '../components/MapLegend.tsx';
+import Header from '../components/Header';
+import USMap from '../components/USMap';
+import StateInfoPanel from '../components/StateInfoPanel';
+import MapLegend from '../components/MapLegend';
 
 interface StateData {
   id: string;

@@ -1,4 +1,4 @@
-import React from "react";
+import * as React from "react";
 import { Link } from "react-router-dom";
 import {
   Avatar,
@@ -12,7 +12,7 @@ import {
   NavigationMenuList,
 } from "../../components/ui/navigation-menu";
 
-export const TeamPage = (): JSX.Element => {
+export const TeamPage: React.FC = () => {
   // Team members data for mapping
   const teamMembers = [
     {

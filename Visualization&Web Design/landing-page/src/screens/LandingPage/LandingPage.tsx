@@ -6,7 +6,7 @@ import { IntroductionSection } from "./sections/IntroductionSection";
 import { MainContentSection } from "./sections/MainContentSection";
 import { ProjectOverviewSection } from "./sections/ProjectOverviewSection";
 
-const LandingPage = (): JSX.Element => {
+const LandingPage: React.FC = () => {
   return (
     <div className="bg-white flex flex-row justify-center w-full">
       <div className="bg-white overflow-hidden w-full max-w-[1440px] relative">

@@ -1,7 +1,8 @@
 
+import React from "react";
 import { Card, CardContent } from "../../../../components/ui/card";
 
-export const HowWeHelpSection = (): JSX.Element => {
+export const HowWeHelpSection = (): React.JSX.Element => {
   const helpItems = [
     {
       title: "Smarter navigation for AI standards",
