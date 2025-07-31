@@ -10,9 +10,9 @@ import {
 export const ProjectOverviewSection: React.FC = () => {
   const navItems = [
     { text: "Home", path: "/landing-page", isLink: true },
-    { text: "Search", path: "", isLink: false },
-    { text: "About", path: "", isLink: false },
-    { text: "Teams", path: "", isLink: false },
+    { text: "Search", path: "/search", isLink: true },
+    { text: "About", path: "/about", isLink: true },
+    { text: "Teams", path: "/teams", isLink: true },
   ];
   const navigate = useNavigate();
 
