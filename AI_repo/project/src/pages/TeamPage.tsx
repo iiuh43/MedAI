@@ -86,7 +86,7 @@ const TeamPage = () => {
       name: 'Claire Park',
       role: 'Data Collection',
       avatar: '/images/team/uknown_headshot.png',
-      skills: ['NLP', 'Machine Learning', 'TensorFlow', 'spaCy'],
+      skills: ['Data Collection', 'Data Analysis', 'Research Design', 'Data Visualization'],
       github: 'https://github.com/mariagarcia',
       linkedin: 'https://www.linkedin.com/in/claire-park/'
     },
