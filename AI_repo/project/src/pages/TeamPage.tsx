@@ -7,13 +7,13 @@ const TeamPage = () => {
       name: 'Dr. Ravi Bharat Parikh',
       role:[ 'Project Director/Sponsor'],
       avatar: '/images/team/ravi_headshot.jpg',
-      linkedin: 'https://www.linkedin.com/in/ravi-parikh-md-mpp-mhs-5b8b7a20/'
+      linkedin: 'https://www.linkedin.com/in/ravibparikh/'
     },
     {
       name: 'Dr. Ashley Lynn Eadie',
       role: 'Project Director',
       avatar: '/images/team/ashley_headshot.jpg',
-      linkedin: 'https://www.linkedin.com/in/ashley-eadie-phd-b8a45a1b/'
+      linkedin: 'https://www.linkedin.com/in/ashley-eadie-phd-1360618b/'
     }
   ];
 
@@ -23,32 +23,32 @@ const TeamPage = () => {
       role: 'Data Collection/ Web Design',
       avatar: '/images/team/mufidah_headshot.jpeg',
       skills: ['Graphic Design', 'Neuroscience', 'Data Analysis', 'Data Visualization', 'Microsoft Excel', 'Research'],
-      github: 'https://github.com/alexthompson',
-      linkedin: 'https://www.linkedin.com/in/mufidah-abdulkadir/'
+      github: 'https://github.com/mufidaha',
+      linkedin: 'https://www.linkedin.com/in/mufidahabdulkadir'
     },
     {
       name: 'Sara Baji',
       role: 'NLP Analyst',
       avatar: '/images/team/sara_headshot.png',
       skills: ['SAS', 'R', 'Python', 'Data Visualization', 'Statistical Analysis', 'Epidemiological Methods'],
-      github: 'https://github.com/mariagarcia',
-      linkedin: 'https://www.linkedin.com/in/sara-baji/'
+      github: 'https://github.com/sarambaji',
+      linkedin: 'https://www.linkedin.com/in/sarabaji'
     },
     {
       name: 'Rebekah Gerrick',
       role: 'Data Collection/ Web Design',
       avatar: '/images/team/rebekah_headshot.jpeg',
       skills: ['Graphic Design', 'Data preprosing and cleaning', 'Research Design', 'Visualization', 'Data Analysis'],
-      github: 'https://github.com/mariagarcia',
-      linkedin: 'https://www.linkedin.com/in/rebekah-gerrick/'
+      github: 'https://github.com/rgerrick',
+      linkedin: 'https://www.linkedin.com/in/rgerrick1/'
     },
     {
       name: 'Steven Hu',
       role: 'Web Design',
-      avatar: '/images/team/maria-garcia.jpg',
-      skills: ['Web Building','Graphic Design','Data Analysis'],
-      github: 'https://github.com/mariagarcia',
-      linkedin: 'https://www.linkedin.com/in/steven-hu/'
+      avatar: '/images/team/steven_headshot.jpg',
+      skills: ['Web Building','Graphic Design','Data Analysis','Python','Data Visualization','Data Analysis'],
+      github: 'https://github.com/stevenhu913',
+      linkedin: 'https://www.linkedin.com/in/stevenhu2027/'
     },
     {
       name: 'Minjoo Kim',
@@ -56,28 +56,28 @@ const TeamPage = () => {
       avatar: '/images/team/minjoo_headshot.jpeg',
       skills: ['Machine Leaning & Predictive Modeling', 'Statistical Analysis', 'Deep Learning & Video-Based Motion Analysis', 'Data Wrangling & Cleaning', 'Data Visualization and Dashboarding', 'Natural Language Processing'],
       github: 'https://github.com/Minjoo22',
-      linkedin: 'www.linkedin.com/in/minjoo-kimm/'
+      linkedin: 'https://www.linkedin.com/in/minjoo-kimm'
     },
     {
       name: 'Winnie Lau',
       role: 'NLP Analyst',
       avatar: '/images/team/winnie_headshot.jpg',
       skills: ['NLP', 'Machine Learning', 'TensorFlow', 'spaCy'],
-      github: 'https://github.com/mariagarcia',
-      linkedin: 'https://www.linkedin.com/in/winnie-lau/'
+      github: 'https://github.com/winn-lau',
+      linkedin: 'https://www.linkedin.com/in/winnie-s-lau'
     },
     {
       name: 'Christopher McCoy',
       role: 'Project Leader',
       avatar: '/images/team/chris_headshot.jpg',
       skills: ['Python', 'Front-end Building', 'Leadership', 'Prompt Engineering', 'Data Wrangling & Cleaning', 'Microsoft Office Suit'],
-      github: 'https://github.com/mariagarcia',
-      linkedin: 'https://www.linkedin.com/in/christopher-mccoy/'
+      github: 'https://github.com/chris10935',
+      linkedin: 'https://www.linkedin.com/in/christopher-mccoy-0527a0198/'
     },
     {
       name: 'Abha Namjoshi',
       role: 'NLP Analyst',
-      avatar: '/images/team/maria-garcia.jpg',
+      avatar: '/images/team/abha_headshot.JPG',
       skills: ['NLP', 'Machine Learning', 'TensorFlow', 'spaCy'],
       github: 'https://github.com/mariagarcia',
       linkedin: 'https://www.linkedin.com/in/abha-namjoshi/'
@@ -95,16 +95,16 @@ const TeamPage = () => {
       role: 'NLP Analyst',
       avatar: '/images/team/joesph_headshot.jpeg',
       skills: ['NLP', 'Machine Learning', 'TensorFlow', 'spaCy'],
-      github: 'https://github.com/mariagarcia',
-      linkedin: 'https://www.linkedin.com/in/joseph-van-duyn/'
+      github: 'https://github.com/jvanduyn1',
+      linkedin: 'https://www.linkedin.com/in/joseph-van-duyn-8562862b1'
     },
     {
       name: 'Lynne Zheng',
       role: 'Web Design',
       avatar: '/images/team/lynne_headshot.JPEG',
       skills: ['Front-end Building', 'Web Project Collaboration & Git', 'Prototying to Deployment Workflow', 'AI Data Integration', 'Prompt Engineering', 'Graphic Design'],
-      github: 'https://github.com/mariagarcia',
-      linkedin: 'https://www.linkedin.com/in/lynne-zheng/'
+      github: 'https://github.com/iiuh43',
+      linkedin: 'https://www.linkedin.com/in/lynne-zheng-9b0296301/'
     }
   ];
 
@@ -155,7 +155,18 @@ const TeamPage = () => {
                 <p className="text-blue-600 font-medium mb-1">{mentor.role}</p>
                 <p className="text-sm text-gray-600 mb-4">{mentor.department}</p>
                 <p className="text-gray-700 text-sm mb-6 leading-relaxed">{mentor.bio}</p>
-                
+                <div className="flex justify-center space-x-2 pt-2">
+                  {mentor.linkedin && (
+                    <a
+                      href={mentor.linkedin}
+                      className="p-2 text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition-colors duration-200"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <Linkedin className="h-5 w-5" />
+                    </a>
+                  )}
+                </div>
               </div>
             ))}
           </div>
@@ -211,6 +222,8 @@ const TeamPage = () => {
                     <a
                       href={student.linkedin || "https://linkedin.com"}
                       className="p-2 text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition-colors duration-200"
+                      target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <Linkedin className="h-4 w-4" />
                     </a>
@@ -218,6 +231,8 @@ const TeamPage = () => {
                       <a
                         href={student.github}
                         className="p-2 text-gray-600 hover:text-blue-600 hover:bg-blue-50 rounded-lg transition-colors duration-200"
+                        target="_blank"
+                        rel="noopener noreferrer"
                       >
                         <Github className="h-4 w-4" />
                       </a>
@@ -236,7 +251,7 @@ const TeamPage = () => {
             We're always looking for passionate students and researchers to contribute to this important work
           </p>
           <a
-            href=""
+            href="https://www.linkedin.com/company/haclab-emory/"
             className="bg-white text-blue-900 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors duration-200 inline-flex items-center space-x-2"
           >
             <Linkedin className="h-5 w-5" />
