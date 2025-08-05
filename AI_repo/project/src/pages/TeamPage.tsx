@@ -62,7 +62,7 @@ const TeamPage = () => {
       name: 'Winnie Lau',
       role: 'NLP Analyst',
       avatar: '/images/team/winnie_headshot.jpg',
-      skills: ['NLP', 'Machine Learning', 'TensorFlow', 'spaCy'],
+      skills: ['Prompt Engineering', 'Predidictive Modeling', 'Sentiment Analysis', 'Data Visualization', 'Neuroscience', 'Linguistics'],
       github: 'https://github.com/winn-lau',
       linkedin: 'https://www.linkedin.com/in/winnie-s-lau'
     },
@@ -94,7 +94,7 @@ const TeamPage = () => {
       name: 'Joseph Van Duyn',
       role: 'NLP Analyst',
       avatar: '/images/team/joesph_headshot.jpeg',
-      skills: ['NLP', 'Machine Learning', 'TensorFlow', 'spaCy'],
+      skills: ['Data Analysis', 'Python', 'Machine Learning', 'Neural Networks', 'Artificial Intelligence', 'Problem Solving'],
       github: 'https://github.com/jvanduyn1',
       linkedin: 'https://www.linkedin.com/in/joseph-van-duyn-8562862b1'
     },
