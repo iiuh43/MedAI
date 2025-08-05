@@ -78,7 +78,7 @@ const TeamPage = () => {
       name: 'Abha Namjoshi',
       role: 'NLP Analyst',
       avatar: '/images/team/abha_headshot.JPG',
-      skills: ['NLP', 'Machine Learning', 'TensorFlow', 'spaCy'],
+      skills: ['Python', 'R', 'SAS', 'Machine Learning', 'Clinical and Public Health Proficiency', 'Statistical Analysis'],
       github: 'https://github.com/mariagarcia',
       linkedin: 'https://www.linkedin.com/in/abha-namjoshi/'
     },
