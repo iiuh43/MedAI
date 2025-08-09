@@ -1,0 +1,1050 @@
+HOUSE SELECT COMMITTEE ON ARTIFICIAL 
+INTELLIGENCE & EMERGING TECHNOLOGIES
+NOVEMBER 2024
+Interim Report
+TO THE EIGHTY/hyphen.capNINTH TEXAS LEGISLATURE
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+HOUSE  COMMITTEE O N ARTIFICIAL INTELLIGENCE & EMERGING 
+TECHNOLOGIES, SELECT  
+TEXAS HOUSE OF REPRESENTATIVES  
+FINAL INTERIM REPORT 20 24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A REPORT TO THE  
+HOUSE OF REPRESENTATIVES  
+89TH  TEXAS LEGISLATURE  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GIOVANNI CAPRIGLIONE  
+CHAIRMAN  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+COMMITTEE CLERK  
+KATY ALDREDGE  
+  
+ 
+ 
+ 
+  
+ 
+Members: Jeff Leach, Oscar Longoria, Angelia Orr, Armando WalleCommittee O n 
+Artificial I ntellig ence & Emerging T echnologies,  Select 
+November 22, 2024 
+Giovanni Capriglione P.O. Box 2910 
+Chairman Austin, Texas 78768-2910 
+The Honorable Dade Phelan
+Speaker, Texas House of Representatives
+Members of the Texas House of Representatives
+Texas State Capitol, Rm. 2W.13 
+Austin, Texas 78701 
+Dear  Mr. Speaker and Fellow Members:
+The Committee on Artificial Intelligence & Emerging Technologies, Select of the Eighty-eighth 
+Legislature, hereby submits its final interim report,  including recommendations for consideration by the 
+Eighty-ninth Legislature.
+Resp ectfully submitted,
+_______________ ________ 
+ Giovanni Capriglione 
+_______________________
+Jeff Leach_______________________
+Oscar Longoria 
+_______________________
+Angelia Orr_______________________
+Armando Walle 
+_______________________
+Jeff Leach
+_______________________
+Jeff Leach
+
+ 
+ 
+ 
+   
+Page | 5 
+ 
+ 
+ TABLE OF CONTENTS 
+ 
+TABLE OF CONTENTS  ................................................................................................................ 5 
+OVERVIEW  ................................................................................................................................... 7 
+Charge  ..................................................................................................................................... 7 
+Introduction ............................................................................................................................. 7 
+INTERIM STUDY TOPICS  ........................................................................................................... 9 
+TOPIC I: The Impact of Artificial Intelligence and Emerging Technologies on Transportation  . 11 
+BACKGROUND  ...................................................................................................................... 11 
+SUMMARY OF COMMITTEE ACTION  ............................................................................... 11 
+SUMMARY OF TESTIMONY  ................................................................................................ 11 
+TOPIC II: The Impact of Artificial Intelligence and Emerging Technologies on Healthcare  ...... 15 
+BACKGROUND  ...................................................................................................................... 15 
+SUMMARY OF COMMITTEE ACTION  ............................................................................... 15 
+SUMMARY OF TESTIMONY  ................................................................................................ 15 
+TOPIC III: The Impact of Artificial Intelligence and Emerging Technologies on the Unlicensed 
+Industries  ....................................................................................................................................... 19 
+BACKGROUND  ...................................................................................................................... 19 
+SUMMARY OF COMMITTEE ACTION  ............................................................................... 19 
+SUMMARY OF TESTIMONY  ................................................................................................ 19 
+TOPIC IV: The Impact of Artificial Intelligence and Emerging Technologies on the Licensed 
+Industries  ....................................................................................................................................... 23 
+BACKGROUND  ...................................................................................................................... 23 
+SUMMARY OF COMMITTEE ACTION  ............................................................................... 23 
+SUMMARY OF TESTIMONY  ................................................................................................ 23 
+TOPIC V: Formulating Legislative, Policy, and Regulatory Recommendations  ......................... 27 
+BACKGROUND  ...................................................................................................................... 27 
+SUMMARY OF COMMITTEE ACTION  ............................................................................... 27 
+SUMMARY OF TESTIMONY  ................................................................................................ 27 
+CONCLUSION  ............................................................................................................................. 31 
+RECOMMENDATIONS  .............................................................................................................. 33 
+ 
+  
+6 |  Page 
+ 
+ 
+  
+Page | 7 
+ 
+ 
+ OVERVIEW 
+Charge 
+ 
+By proclamation dated April 2, 2024, Dade Phelan, Speaker of the House of Representatives, 
+formed the House Select Committee on Artificial Intelligence & Emerging Technologies.  
+The committee was created to conduct a comprehensive review of the advancements in artificial 
+intelligence and emerging technologies (AI/ET) and the economic, ethical, and societal 
+implications of those advancements.  The review includes: 
+1. Examining the current state of AI/ET and its uses by public and private actors in modern 
+society;  
+2. Determining the impact of the application of AI/ET on various sectors of society, including 
+employment, healthcare, homeland and national security, and transportation; 
+3. Identifying policy considerations necessary to ensure the responsible deployment of AI/ET 
+in Texas by both public and private actors; and 
+4. Formulating recommendations for legislative, policy, regulatory, and remedial actions 
+needed to address the challenges and opportunities presented by AI/ET. 
+ 
+The committee was directed to submit an initial report no later than May 16, 2024, in the same 
+manner as an interim study committee under Rule 4, Section 61, Rules of the House of 
+Representatives.   The initial report can be found here. 
+ 
+Introduction 
+ 
+The Select Committee on Artificial Intelligence and Emerging Technologies met on April 29, 2024 
+to hold an initial hearing to receive a broad overview of artificial intelligence and emerging 
+technologies.  The committee heard from a comprehensive range of witnesses to provide an 
+introduction to AI covering the following topics:  
+• How AI affects the military; 
+• Why AI is making the prosecution of child pornography laws difficult,  
+• How AI can impact elections;  
+• How AI is making cybersecurity both more efficient and more problematic; and  
+• A comparison of how industry and advocacy associations differ in their arguments. 
+ 
+The Select Committee on Artificial Intelligence and Emerging Technologies met on October 1, 
+2024, to hold a hearing to receive an overview of artificial intelligence and emerging technologies.  
+The committee heard from a comprehensive range of witnesses on  the following topics: 
+• The impact of AI/ET on transportation; 
+• The impact of AI/ET on healthcare;  
+• The impact of AI/ET on the unlicensed industries; 
+• The impact of AI/ET on the licensed industries 
+• Formulating legislative, policy, and regulatory recommendations. 
+ 
+ 
+8 |  Page 
+ 
+ 
+ The committee’s initial report gave an overview of the testimony the committee heard in the April 
+29, 2024 hearing, sharing basic principles around AI/ET  and providing detailed summaries of each 
+witness's testimony and policy recommendations.  The committe e’s final report will give an 
+overview of the October 1, 2024, hearing and share policy recommendations of the select 
+committee.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Page | 9 
+ 
+ 
+ INTERIM STUDY TOPICS  
+TOPIC I:  
+ Impact of AI/ET on Transportation  
+TOPIC II:  
+ Impact of AI/ET on Healthcare  
+TOPIC III:  
+ Impact of AI/ET on the Unlicensed Industries  
+TOPIC IV:  
+ Impact of AI/ET on Licensed Industries  
+TOPIC V:  
+ Formulating Legislative, Policy, and Regulatory Recommendations  
+ 
+  
+10 |  Page 
+ 
+ 
+   
+Page | 11 
+ 
+ 
+ TOPIC  I: The Impact of Artificial Intelligence and E merging 
+Technologies on Transportation 
+ 
+BACKGROU ND 
+As AI advances, the transportation sector is experiencing transformative change, from optimized 
+traffic flow to improved supply chain logistics.  These innovations hold promise for improving 
+efficiency, reducing environmental impact, and increasing public safety.  However, AI’s 
+deployment in transportation raises critical questions about data privacy, workforce development, 
+and infrastructure investment. 
+SUMMARY OF COMMITTEE ACTION 
+The committee held a public hearing on October 1, 2024, with both invited and public testimony.  
+The individuals listed below provided testimony to the committee on this charge.  
+ 
+Public Hearing: October 1, 2024 
+ 
+Witness List: October 1, 2024 – Austin, Texas, Capitol Extension E2.010, at 10:00am  
+ 
+1) Ronnie Hawkins (Self; Angelo State University)  
+2) Jason Roys (Self; SDV International, LLC)  
+3) Anh Selissen (TxDOT)  
+4) Ben Bhatti (Optym)  
+5) Vimal Vasudevan (Self; Texas AI Association)  
+ 
+The information below is largely based on the oral and written testimony of the individuals and 
+organizations listed above.  The committee also received written comments on this charge from 
+Ariel Santschi (Self).  
+SUMMARY OF TESTIMONY 
+AI has revolutionized transportation logistics, with major implications for the efficiency of goods 
+movement across the state.  AI -driven systems are reshaping how companies plan and execute 
+their supply chains, enabling them to analyze and predict demand, optimize routing, and minimize 
+empty vehicle trips.  The testimony highlighted how AI’s capabilities in predictive analytics allow 
+companies to manage their assets better, using data- driven insights to enhance efficiency.  For 
+instance, Ben Bhatti of Optym, testified that many companies rely on manual planning processes 
+for their freight, which are time -intensive and error -prone.  With intelligent routing systems 
+powered by AI, companies can increase driver utilization, streamline operations, and reduce 
+transportation costs.  Optimized routing also has environmental benefits, as reduced fuel 
+consumption and fewer idle vehicles help decrease carbon emissions, making transportation 
+logistics more sustainable.  However, expanding AI applications in supply chai n logistics will 
+require infrastructure and workforce training investments so that employees are equipped to 
+manage and maintain these systems effectively.  
+12 |  Page 
+ 
+ 
+  
+AI’s potential in traffic management and public safety is another focal point.  Advanced AI systems 
+can monitor traffic patterns in real time, enabling faster response to road incidents, improving 
+congestion, and minimizing accident risks.  Anh Selissen, C hief Information Officer of the Texas 
+Department of Transportation (TxDOT), shared how AI has been successfully implemented in 
+TxDOT’s traffic incident management systems.  AI tools analyze data from emergency response 
+systems to detect accidents quickly, reducing response times by up to eleven minutes per incident 
+and decreasing the likelihood of secondary crashes by nearly 30%.  These improvements not only 
+enhance road safety but also contribute to smoother traffic flow and reduced vehicle congestion.  
+With such proven benefits, Texas could consider expanding the deployment of AI -powered traffic 
+management systems statewide, leveraging data from various sources to support real -time 
+decision -making.  This would involve further investment in connected infras tructure, such as 
+sensors and cameras, which would be essential to enable seamless data integration and analysis.  
+ 
+The issue of data privacy emerged as a central concern, particularly in light of AI’s reliance on 
+massive amounts of personal information.  Jason Roys of SDV International highlighted how the 
+growth of connected vehicles has expanded the types of data companies collect, including sensitive 
+data like contact lists from phones connected to the vehicle, GPS locations, and even biometric 
+information.  Many new vehicles, he noted, come equipped with infotainment and telematics 
+systems that store information from  drivers’ and passengers' mobile devices.  Once a mobile device 
+is connected to a vehicle via Bluetooth or USB, it transfers data such as personal contacts, text 
+messages, and location history, often without the user’s full understanding.  Roys pointed out  that 
+while manufacturers offer delete functions, they rarely fully erase data, leaving residual 
+information that can be accessed by others, creating potential security risks.  His testimony 
+suggested that legislators consider implementing policies requiring car dealers and rental 
+companies to fully delete stored data upon resale or rental return, protecting consumer privacy and 
+reducing the risk of data exploitation.  As the transportation sector continues to gather more data 
+from connected vehicles, robus t privacy regulations are essential to ensure users’ personal 
+information is safeguarded. 
+ 
+In the realm of infrastructure, AI applications in transportation logistics and traffic management 
+demand significant investments in technology and training.  According to TxDOT, all proposed 
+AI solutions undergo rigorous risk assessments before approval.  Selissen detailed TxDOT’s pilot 
+program, which involved an AI -based chatbot designed to answer public queries and support 
+employees.  These pilots allow TxDOT to test AI’s potential while refining risk management 
+strategies before deploying solutions more  widely.  TxDOT’s pilot approach has allowed the 
+agency to identify productivity benefits – such as accelerating response times for processing 
+invoices and onboarding staff –  while carefully evaluating potential risks.  Expanding such AI 
+initiatives would require further infrastructure investment, as well as guidelines for secure data 
+management practices.  Witnesses recommended Texas establish a standardized framework for 
+evaluating and approving AI applications in public sector projects to ensure that AI 
+implementations align with the state’s data security, transparency, and ethical standards.  
+ 
+AI’s role in workforce transformation is equally important to its technological impact.  AI 
+applications in transportation often automate routine tasks, such as route planning and inventory 
+management, which might displace some traditional roles.  However, AI is not a replacement for 
+Page | 13 
+ 
+ 
+ human oversight; rather, it enhances operational efficiency by supplementing human skills with 
+powerful analytical tools.  Vimal Vasudevan of the Texas AI Association noted that AI will likely 
+augment rather than replace jobs, with the key challenge being the upskilling of workers to adapt 
+to new technologies.  Vasudevan advocated for statewide training initiatives and incentives to help 
+workers transition to roles that involve managing AI -driven systems.  Workforce retraining is vital 
+to equipping employee s with the skills needed to oversee and interpret AI data, particularly in 
+logistics, where real -time decision -making is critical to operations.  He noted that policies that 
+promote workforce training would help ensure Texas’ labor market remains competiti ve as the 
+transportation industry embraces digital innovation. 
+ 
+Another benefit of AI lies in its capacity to enhance safety and cybersecurity across the 
+transportation sector.  Ronnie Hawkins, President of Angelo State University, highlighted Texas’ 
+leadership in cybersecurity through the establishment of the Regional  Security Operations Center 
+(RSOC), which provides cybersecurity support to local governments.  Cybersecurity becomes 
+paramount in preventing unauthorized access to sensitive information and systems as 
+transportation systems become more connected and AI applications expand.  Angelo State’s 
+RSOC, for example, is positioned to provide cybersecurity support for connected infrastructure, 
+reducing risks to public safety and offering hands -on experience to students preparing for careers 
+in AI and cybersecurity.  Hawkins argued that fostering a  collaborative environment between 
+universities, government entities, and industry partners will be crucial in developing a workforce 
+skilled in cybersecurity measures.  His testimony also emphasized the importance of integra ting 
+AI and cybersecurity training into Texas’ education system, from K -12 through higher education, 
+to prepare students for the evolving demands of the workforce.  
+ 
+While AI holds promise for improving transportation systems, experts underscored the importance 
+of ethical guidelines and public trust.  Witnesses expressed concerns over potential overreliance 
+on AI for critical decision -making, especially in cases where human judgment is irreplaceable.  
+For instance, AI systems can interpret data from crash scenes or driver behavior, but they lack the 
+nuance of human assessment in complex legal or ethical scenarios.  Policymakers should ensure 
+that AI is used to complemen t human oversight rather than replace it in sensitive areas.  For 
+example, law enforcement’s use of AI to interpret data from body or traffic cameras should be 
+carefully monitored to avoid potential bias and inaccuracies that could impact legal outcomes.  
+Texas should consider implementing transparency requirements for AI applications in public 
+services to safeguard public trust, allowing citizens to understand how AI influences decision-
+making processes and ensure accountability. 
+ 
+In conclusion, AI is poised to transform Texas’ transportation sector, bringing benefits in 
+operational efficiency, safety, and sustainability.  However, realizing these benefits will require 
+strategic policy actions to address data privacy, cybersecurity, workforce development, and 
+infrastructure investment.  Texas has the opportunity to lead the nation and harness the full 
+potential of AI to modernize the transportation sector  and ensure that technological advancements 
+contribute to a safer and more efficient future.  
+  
+14 |  Page 
+ 
+ 
+  
+  
+Page | 15 
+ 
+ 
+ TOPIC  II: The Impact of Artificial Intelligence and Emerging 
+Technologies on Healthcare  
+ 
+BACKGROUND  
+Artificial intelligence (AI) is increasingly transforming the healthcare landscape, offering powerful 
+tools to enhance patient care, streamline administrative tasks, and drive groundbreaking research.  
+In considering a legislative framework supporting the responsible use of AI in healthcare, it is 
+crucial to balance the potential for innovation with safeguards that protect patient safety, data 
+privacy, and equitable access to advanced technologies.   
+SUMMARY OF COMMITTEE ACTION 
+The committee held a public hearing on October 1, 2024, with both invited and public testimony.  
+The individuals listed below provided testimony to the committee on this charge.  
+ 
+Public Hearing: October 1, 2024 
+ 
+Witness List: October 1, 2024 – Austin, Texas, Capitol Extension E2.010, at 10:00am  
+ 
+1) Caroline Chung (Self; University of Texas MD Anderson Cancer Center)  
+2) Jamie Dudensing (Texas Association of Health Plans)  
+3) Nicole Lusardi (Texas Hospital Association)  
+4) Peter McCaffrey (University of Texas Medical Branch)  
+5) Ezequiel Silva (Self; Texas Medical Association)  
+ 
+The information below is largely based on the oral and written testimony of the individuals and 
+organizations listed above.  The Committee did not receive any written comments on this charge.  
+SUMMARY OF TESTIMONY 
+AI’s utility in healthcare spans a broad range of uses, from clinical decision support to 
+administrative efficiency.  In clinical care, AI can assist in diagnosing complex conditions, such 
+as identifying early signs of life -threatening events like pulmonar y embolisms or large vessel 
+occlusions in the brain.  Dr. Ezequiel Silva, an interventional radiologist, illustrated this with 
+examples from his work, where AI software identifies high- risk cases of pulmonary embolism by 
+analyzing imaging data, allowing physicians to prioritize treatment.  This technology helps 
+expedite diagnosis and intervention, which can reduce ICU stays and ultimately save lives.  Dr. 
+Silva emphasized that AI can alert not only radiologists but the entire care team, enhancing 
+coordinate d response for conditions where time is critical.  Similarly, AI’s ability to detect subtle 
+changes in imaging – often imperceptible to the human eye – has transformed radiology, enabling 
+early detection and intervention, which are key to better patient outcomes.  These diagnostic 
+capabilities improve clinical workflows and augment physicians’ capabilities, allowing  healthcare 
+teams to prioritize cases based on urgency and reduce the risks associated with delayed diagnosis.  
+ 
+16 |  Page 
+ 
+ 
+ However, the integration of AI into clinical workflows is not without challenges.  Dr. Caroline 
+Chung, Chief Data and Analytics Officer at MD Anderson Cancer Center, highlighted the risks of 
+using AI models trained on generalized data that may not apply ac curately to specialized 
+populations, such as cancer patients.  She explained that models designed for the general 
+population often failed in MD Anderson’s cancer patient context, where immune system variations 
+due to chemotherapy and immunotherapy treatments differ significantly .  Ensuring AI models 
+perform reliably across diverse patient populations requires “contextual training” – the process of 
+adapting models to reflect the specific patient demographics, clinical settings, and data of each 
+facility.  This precaution is essent ial to prevent AI errors that could jeopardize patient safety.  Dr. 
+Chung argued for establishing standards for model testing, urging that AI implementations in 
+healthcare must consider the unique environment and data context of each institution.  
+ 
+In addition to enhancing clinical care, AI can serve an essential role in administrative tasks, 
+reducing the strain on healthcare workers and lowering operational costs.  Nicole Lusardi of the 
+Texas Hospital Association discussed how AI -driven tools stream line tasks like appointment 
+scheduling, claims management, and clinical documentation, tasks that are particularly 
+burdensome in smaller or resource -limited healthcare facilities.  However, Lusardi highlighted an 
+equity concern: the gap in AI access betwee n larger healthcare institutions and smaller rural 
+hospitals.  Without targeted support, rural and underfunded facilities may struggle to adopt these 
+technologies, which would widen existing disparities in healthcare quality and access.  To address 
+this, L usardi suggested legislative measures may be necessary to ensure that smaller hospitals have 
+the resources to implement AI solutions, leveling the playing field across healthcare settings. 
+ 
+In healthcare research, AI accelerates discoveries by transforming vast, unstructured datasets – 
+like physician notes and genetic data – into actionable insights.  Dr. Peter McCaffrey, Chief AI 
+Officer at the University of Texas Medical Branch, explained h ow AI allows researchers to analyze 
+complex biological interactions within the body, such as genetic expressions and cellular 
+functions, revealing new pathways for treatment.  In areas like oncology, where genomic data can 
+inform precision treatments, AI e nables healthcare providers to deliver more targeted and effective 
+therapies.  Dr. McCaffrey noted that AI can sift through genetic data at unprecedented speeds, 
+making it possible to explore thousands of gene interactions in minutes, a feat impossible for  
+individual researchers.  Yet, with this power comes responsibility: AI tools used in research should 
+comply with stringent ethical and privacy standards, especially when handling sensitive genetic 
+data.  Witnesses, including Dr. McCaffrey, suggested legis lative policies should mandate 
+transparency in how AI models are trained, used, and updated in healthcare research, ensuring 
+patient rights are respected.  
+ 
+Another key area of AI’s impact on healthcare is its role in patient data management and privacy.  
+AI systems process massive volumes of sensitive patient data to generate insights; however, this 
+raises concerns about data ownership, privacy, and the need for patients to consent to the use of 
+their data.  Dr. Silva emphasized the importance of maintaining patient control over their personal 
+data, advocating for clear patient consent before any data is used for AI model training.  Dr. Silva 
+noted that while healthcare AI typically anonymizes data, to protect privacy, there remains a need 
+for clear guidelines on data use and patient consent, especially as AI applications evolve.  Current 
+policies, such as the Health Insurance Portability and Accountability Act  (HIPAA), provide a 
+foundation for data privacy in healthcare, but specific standards tailored to AI applications could 
+Page | 17 
+ 
+ 
+ further strengthen protections.  Legislative action to update the Texas Data Privacy and Security 
+Act (TDPSA) could clarify these standards, ensuring that patients’ data rights remain a priority as 
+AI use in healthcare expands. 
+ 
+The invited witnesses also emphasized the importance of workforce education to ensure that AI in 
+healthcare is used responsibly.  A significant concern is the lack of AI literacy among healthcare 
+professionals, which could lead to over -reliance on AI syste ms and uncritical acceptance of AI -
+generated outputs.  Dr. Chung underscored the need for educational programs to build AI literacy, 
+explaining that MD Anderson has developed a data literacy course aimed at training healthcare 
+workers to interpret and eval uate AI outputs critically.  Without a critical understanding of AI 
+limitations, healthcare workers may risk blindly trusting technology, potentially leading to serious 
+errors.  Education programs focused on AI literacy would empower healthcare professiona ls to 
+assess AI outputs critically, understand AI’s limitations, and make informed decisions that 
+prioritize patient safety.  Dr. Chung proposed that this training could be integrated into healthcare 
+education for current and future medical professionals, fostering a workforce skilled in using AI 
+thoughtfully and ethically. 
+ 
+Despite AI’s advantages, its implementation should be guided by ethical considerations and a 
+commitment to preserving the physician- patient relationship.  Dr. Silva argued that while AI can 
+support physicians, it cannot replace the trust and empathy inhere nt in the physician- patient bond.  
+He warned that patients may feel uncomfortable with AI making critical healthcare decisions 
+without human oversight, urging that legislative frameworks emphasize the need for human 
+oversight, ensuring that AI augments rat her than replaces healthcare professionals.  Dr. Silva’s 
+testimony echoed a shared concern among the witnesses: that preserving the central role of 
+healthcare providers in patient care ensures AI’s potential is harnessed without compromising the 
+personaliz ed care that patients expect and deserve.  
+ 
+In conclusion, AI offers transformative potential in healthcare, with the ability to improve patient 
+outcomes, streamline operations, and drive research innovations.  To realize these benefits fully, 
+thoughtful regulations should promote equitable access to AI, enforce data privacy protections, 
+and establish rigorous testing standards for AI models to ensure safety across diverse populations.  
+Furthermore, policies should mandate AI literacy programs for healthca re professionals and 
+maintain a framework that values human oversight, preserving the central role of healthcare 
+providers.  By approaching AI implementation with these safeguards, we can ensure this powerful 
+technology contributes to a more efficient, acc essible, and compassionate healthcare system.  
+  
+18 |  Page 
+ 
+ 
+  
+  
+Page | 19 
+ 
+ 
+ TOPIC  III: The Impact of Artificial Intelligence and Emerging 
+Technologies on the Unlicensed Industries  
+ 
+BACKGROUND  
+Artificial Intelligence is transforming unlicensed industries – sectors not governed by specific 
+regulatory licenses – by introducing efficiencies, expanding capabilities, and driving innovation.  
+These industries benefit from AI -driven improvements in ope rational processes, decision- making, 
+and product creation improvements.  However, while AI offers vast opportunities for growth and 
+advancement, it also poses unique challenges.  The witnesses on this topic explored ethical, legal, 
+and social implications on AI and its use by unlicensed industries. 
+SUMMARY OF COMMITTEE ACTION 
+The committee held a public hearing on October 1, 2024, with both invited and public testimony.  
+The individuals listed below provided testimony to the committee on this topic . 
+ 
+Public Hearing: October 1, 2024 
+ 
+Witness List: October 1, 2024 – Austin, Texas, Capitol Extension E2.010, at 10:00am. 
+ 
+1) Eyal Darmon (Accenture)  
+2) Yonatan Dor (Self)  
+3) Wifredo Fernandez (X Corp.)  
+4) Beena George (Self)  
+ 
+The information below is largely based on the oral and written testimony of the individuals and 
+organizations listed above.  The Committee did not receive any written comments on this charge.  
+SUMMARY OF TESTIMONY 
+ 
+AI is redefining unlicensed industries, from social media content creation to system modernization, 
+providing tools that enhance productivity, reach, and operational efficiency.  This transformation 
+has implications across fields operating without stringent licensing requirements, raising new 
+questions about ethical standards, transparency, and accountability.  One of the  most visible ways 
+AI is transforming unlicensed industries is through generative media, which has had a notable 
+impact on digital content  creation.  Platforms like X (formerly Twitter) rely on AI algorithms to 
+recommend content, filter out harmful material, and label deceptive or manipulated media.  AI -
+driven platforms now serve as the primary arenas for public discussion and information 
+dissemination, often setting the tone for social and political discourse.  Wifredo Fernandez, 
+representing X, emphasized the platform’s transparency, explaining how the company has open -
+sourced its recommendation algorithm to provide users insight into how c ontent is selected and 
+ranked.  The platform also employs community- driven content verification through “Community 
+Notes,” allowing users to annotate potentially misleading information.  As Fernandez highlighted, 
+this transparency and community involvement  are essential to maintaining trust and ensuring the 
+20 |  Page 
+ 
+ 
+ platform remains a credible source of information.  However, as social media increasingly 
+influences public opinion, Texas may need to consider guidelines mandating transparency from 
+platforms in how algorithms are used to recommend, filter, or label conte nt, ensuring these 
+practices are aligned with ethical standards.  
+ 
+The expansion of general AI in content creation introduces complex ethical challenges, particularly 
+regarding the potential for AI -generated misinformation and disinformation.  Yonatan Dor, a 
+content creator using AI to produce highly realistic, satirical videos, illustrated the ease with which 
+AI can generate lifelike representations of public figures in various scenarios.  Dor explained that 
+while his creations are intended to be humorous, the same technology could be used to create 
+realistic but misleading content.  He advocated for invisible watermarks identifying AI -generated 
+media, helping viewers distinguish between real and artificial content.  This suggestion aligns with 
+policy considerations that seek to mitigate the impact of misinformation.  As D or pointed out, an 
+invisible watermark embedded in AI -generated content would provide authenticity without 
+interfering with artistic expression.  Implementing such a requirement would safeguard against 
+malicious use of AI -generated media and support transparency, ensuring the public can easily 
+identify AI -generated content.  
+ 
+AI’s rise also presents potential risks in data privacy and security, particularly as more personal 
+information is integrated into unlicensed sectors.  AI systems that process data on platforms like 
+X not only generate recommendations, but also monitor pat terns of use interaction, presenting 
+challenges related to user privacy.  Fernandez noted that X has strengthened privacy protections 
+by implementing a verification system that helps authenticate user accounts and detect inauthentic 
+behavior.  However, wit hout formalized standards governing data use in unlicensed sectors, there 
+is a risk that personal data may be used without adequate protection, leading to breaches of user 
+privacy.  While the Texas Data Privacy and Security Act (TDPSA) provides Texans with  rights 
+regarding their data, legislative action could implement further safeguards against unauthorized 
+access to data.  
+ 
+AI’s impact on unlicensed industries extends beyond media to administrative efficiency and 
+operational optimization.  Eyal Darmon of Accenture testified about generative AI’s potential in 
+modernizing legacy systems, which are often complex, costly, and cum bersome to maintain.  
+Traditionally, upgrading these systems involved either incremental improvements or complete 
+replacements, both of which are expensive and time -intensive.  Generative AI introduces a third 
+option: using AI to reverse -engineer legacy systems and create new specifications and designs, 
+thereby reducing costs and development time by as much as 25%.  This process not only 
+modernizes outdated systems  but also reduces operational risks by maintaining essential 
+functionalities.  Darmon emphasiz ed that generative AI could act like “a thousand interns,” 
+creating initial drafts for everything from code to technical specifications and system requirements.  
+However, he advised that human oversight remains essential in verifying AI -generated work, 
+particularly as system modernization impacts public services.  Policy measures could support 
+responsible AI use by requiring contractors to disclose when generative AI is used to maintain 
+transparency throughout a project’s lifecycle, ensuring AI -driven moder nization aligns with state 
+standards for data integrity and security.  
+ 
+While AI provides efficiency and reach, it raises questions of accountability, especially when 
+Page | 21 
+ 
+ 
+ dealing with unlicensed sectors that traditionally lack strict regulatory frameworks.  AI’s ability to 
+produce high volumes of realistic  but synthetic content challenges conventional methods of 
+verifying authenticity.  Dor underscored the necessity for legal frameworks to determine liability 
+in cases where AI -generated media causes harm or defames individuals.  He argued that AI -
+generated content should be treated similarly to traditional media, with creators held accountable 
+if their work causes harm, rega rdless of whether it was generated by hand, software, or AI.  
+Implementing consistent standards across media formats would ensure accountability and 
+discourage the  misuse of AI tools for malicious purposes.  
+ 
+Beyond technical and operational concerns, AI’s role in social and cultural spaces demands 
+attention to ethical and community values.  Dr. Beena George, a professor from the University of 
+St. Thomas Houston, outlined how AI is reshaping the way information is shared within faith -
+based communities, enabling constant access to religious teachings and resources.  She described 
+how a Catholic resource called Magisterium AI allows users to explore church teachings and 
+documents, helping faith communities connect  with followers.  While this technology broadens 
+access, George warned that over -reliance on AI could undermine communal aspects of faith that 
+are fundamental to religious practice.  AI can support the dissemination of information but cannot 
+replace human connection and the shared experiences that give religious teachings their depth. 
+Texas legislators could consider the broader social and cultural implications of AI, potentially 
+encouraging responsible AI use in ways that uphold community values and preser ve interpersonal 
+connections.  
+ 
+George also highlighted the importance of transparency and accountability in AI systems, 
+particularly in unlicensed industries where standards may be less stringent.  She urged for 
+“purpose -driven” AI that respects user data, prevents misinformation, and promotes ethical 
+engagement, especially as younger users become more susceptible to misinformation.  Her insights 
+underscored the need for education and critical thinking skills in an AI -saturated world.  With AI 
+making information readily accessible, Texas  may consider supporting educational initiatives to 
+help individuals, especially young people, develop critical thinking skills.  These skills will enable 
+them to navigate the vast information landscape, distinguishing between accurate and misleading 
+conte nt. 
+ 
+In conclusion, AI is reshaping unlicensed industries in transformative ways, improving efficiency, 
+creativity, and accessibility.  However, as these changes unfold, Texas must establish guidelines 
+to ensure that AI use in these industries is transparent, e thical, and accountable.  Texas can position 
+itself as a leader in responsible AI innovation, fostering an environment that supports both 
+technological progress and public trust in AI -driven solutions.  
+  
+22 |  Page 
+ 
+ 
+  
+  
+Page | 23 
+ 
+ 
+ TOPIC  IV: The Impact of Artificial Intelligence and Emerging 
+Technologies on the Licensed Industries  
+ 
+BACKGROUND  
+Artificial Intelligence (AI) is transforming licensed industries like banking, accounting, financial 
+services, broadcasting, and public service.  While AI offers clear advantages in terms of efficiency, 
+accuracy, and security, it also raises complex regulatory, ethical, and operational challenges.  
+SUMMARY OF COMMITTEE ACTION 
+The committee held a public hearing on October 1, 2024, with both invited and public testimony.  
+The individuals listed below provided testimony to the committee on this charge.  
+ 
+Public Hearing: October 1, 2024 
+ 
+Witness List: October 1, 2024 – Austin, Texas, Capitol Extension E2.010, at 10:00am. 
+ 
+1) Pranesh Aswath (Texas State University)  
+2) Sandra Bembenek (Self)  
+3) Matthew Hall (Texas State University)  
+4) Travis Iles (State Securities Board)  
+5) Shawn Main (Vantage Bank and Texas Bankers Association)  
+6) Shreekanth Mandayam (Texas State University)  
+7) Ovidio Montemayor (Self)  
+8) Paul Watler (Texas Association of Broadcasters)  
+ 
+The information below is largely based on the oral and written testimony of the individuals and 
+organizations listed above.  The Committee did not receive any written comments on this charge.  
+SUMMARY OF TESTIMONY 
+ 
+AI is proving indispensable in the banking and financial services sectors, where it enhances 
+operational efficiency, cybersecurity, and customer service.  In banking, AI -powered applications 
+streamline processes by automating fraud detection, transaction m onitoring, credit scoring, and 
+customer support.  This automation not only reduces costs but also helps banks respond swiftly to 
+evolving financial threats.  Additionally, AI enables financial institutions to deliver personalized 
+services, such as custom f inancial advice and tailored product recommendations.  However, the 
+implementation of AI in these high- stakes industries demands rigorous data governance to 
+maintain accuracy and ensure that decisions are explainable and transparent to both regulators and 
+clients.  Transparent AI applications are essential in building and maintaining public trust, 
+especially when AI influences personal financial decisions like loan approvals and credit 
+assessments.  
+ 
+In accounting, AI is revolutionizing routine tasks, reducing errors, and enhancing productivity.  
+24 |  Page 
+ 
+ 
+ Licensed professionals increasingly use AI tools to assist with tax preparation, auditing, and 
+financial statement generation.  These tools can analyze vast amounts of data, identify patterns, 
+and generate insights at speeds that would be impossible for human staff alone.  For example, AI 
+can help automate time- consuming tasks like data entry and report generation, allowing 
+accountants to focus on high- value activities that require professional judgment and expertise.  
+However, while AI aids in efficiency, human oversight remains critical.  Sandra Bembenek, CFO 
+of Strickland Solutions and a member of the Texas Society of CPAs, compared AI to a “smart 
+intern” that assists with data gathering, analysis, and repetitive tasks, allowing CPAs to focus on 
+complex, judgment -based work.  Accountants are ultimately responsible for verifying AI -
+generated outputs, ensuring accuracy, and maintaining the confidentiality of sensitive client data.  
+This highlights the need for ethical standards that guide the responsible use  of AI in accounting to 
+protect client interests.  
+ 
+The financial services industry benefits from AI’s ability to process and analyze massive datasets, 
+optimizing investment strategies and enhancing trading efficiency.  By identifying market patterns 
+and automating routine tasks, AI helps financial institut ions reduce costs and improve returns for 
+investors.  However, as AI becomes more embedded in market operations, it introduces new risks, 
+particularly regarding market stability and manipulation.  For instance, if numerous financial firms 
+rely on similar A I-driven models, systemic risks could arise, with machines potentially responding 
+to market signals without human judgment, leading to destabilizing effects.  To mitigate these 
+risks, Texas could consider policies that promote transparency in AI -driven tra ding strategies, 
+require disclosure of AI usage in decision- making, and maintain human oversight in critical 
+financial decisions to ensure ethical, stable operations. 
+ 
+In broadcasting and media, AI is both an asset and a challenge.  On one hand, it aids in content 
+generation and enhances operational efficiency.  On the other hand, it introduces risks related to 
+misinformation and content authenticity.  Paul Watler, repre senting the Texas Association of 
+Broadcasters, discussed the unique position of broadcasters as licensed media providers and 
+emphasized the dangers of AI -driven misinformation.  Deepfake technology, for example, allows 
+users to create highly realistic but entirely artificial images, videos, and audio that could be used 
+maliciously to mislead the public or harm individuals.  Broadcasters are particularly concerned 
+about unauthorized use of their content in AI models, which can erode trust and potentially dam age 
+reputations.  Additionally, with the growing accessibility of AI content -creation tools, there is an 
+urgent need for legislation to protect individuals from unauthorized use of their likenesses and to 
+require proper attribution when AI -generated conten t utilizes licensed media.  Establishing clear 
+protections and disclosure requirements for AI -generated content would help safeguard the 
+credibility of Texas broadcasters and other licensed media professionals.  Watler recommended 
+that Texas consider legis lation similar to the proposed federal “NO FAKES Act,” which would 
+provide legal recourse for individuals whose likenesses are used without consent. 
+ 
+The role of AI in public service and regulatory compliance is also expanding, especially in areas 
+like fraud detection, auditing, and record- keeping.  Travis Iles, Commissioner of the Texas State 
+Securities Board, described how AI could assist in identifying and preventing fraud by analyzing 
+transaction patterns and detecting unusual behavior in financial transactions.  However, Iles 
+warned that fraudsters  can also use AI  to deceive investors, especially in combination with 
+emerging technologies like blockchain.  He highlighted that the rapid advancement of AI presents 
+Page | 25 
+ 
+ 
+ challenges in identifying and prosecuting fraudulent activity, as AI -generated schemes are more 
+sophisticated and can evade traditional detection methods.  Iles advocated for ongoing training and 
+investment in AI literacy among regulatory staff to ensure they can recognize and counteract new 
+forms of fraud.   Additionally, AI -driven compliance tools must be designed to enhance, rather than 
+replace, the expertise of human regulators, ensuring that technology supports rather than 
+undermines established standar ds. 
+ 
+In conclusion, AI offers licensed industries numerous benefits, from improved efficiency and 
+enhanced customer service to advanced fraud detection and personalized client interactions.  
+However, realizing these benefits requires a regulatory framework that  addresses the ethical, 
+operational, and privacy concerns AI introduces.  Texas can lead in responsible AI use by 
+establishing clear standards, promoting transparency, and ensuring that AI applications in licensed 
+industries are aligned with public trust a nd industry integrity.  Through a combination of thoughtful 
+policy, industry collaboration, and educational support, Texas can create a sustainable AI 
+environment that fosters innovation while safeguarding the interests of its citizens and licensed 
+profess ionals alike.  
+  
+26 |  Page 
+ 
+ 
+  
+  
+Page | 27 
+ 
+ 
+ TOPIC  V: Formulating Legislative, Policy, and Regulatory 
+Recommendations  
+ 
+BACKGROUND  
+As artificial intelligence (AI) becomes more integrated into society, Texas is challenged to 
+formulat e effective policies  and regulatory guidelines for AI. With the rapid evolution of AI 
+technology, the state has an opportunity to set standards that ensure the responsible use of AI, 
+protect citizens’ rights, and promote innovation.  From protecting human dignity and privacy to 
+fostering transparency and accountability, witnesses emphasized principles and specific policy 
+approaches that prioritize ethical AI  use while promoting innovation.  
+SUMMARY OF COMMITTEE ACTION 
+The committee held a public hearing on October 1, 2024, with both invited and public testimony.  
+The individuals listed below provided testimony to the committee on this charge.  
+ 
+Public Hearing: October 1, 2024 
+ 
+Witness List: October 1, 2024 – Austin, Texas, Capitol Extension E2.010, at 10:00am  
+ 
+1) Ben Bhatti (Texas AI Association)  
+2) Zach Whiting (Texas Public Policy Foundation)  
+ 
+The information below is largely based on the oral and written testimony of the individuals and 
+organizations listed above.  The Committee also received written comments on this charge from  
+Carolyn Reeves (Republican), Luis Saenz (Representing Workday), Holly Deshields (Business 
+Software Alliance), and Ariel Santschi (self – filmmaker).  
+SUMMARY OF TESTIMONY 
+ 
+A foundational theme from the testimony was the importance of centering AI policies on human 
+dignity and privacy.  Zach Whiting, representing the Texas Public Policy Foundation, argued that 
+technology “should serve humanity, not the other way around,” urgi ng the committee to put 
+individuals’ rights at the forefront of AI policy.  This guiding principle underscores that AI should 
+be used to enhance human well -being, not undermine it.  Protecting individuals’ privacy rights, 
+particularly concerning sensitive data, was seen as essential to preserving personal autonomy.  
+ 
+Building on this principle, Whiting suggested a digital bill of rights, allowing Texans control over 
+their data when interacting with AI.  By granting users the right to access, correct, delete, or opt 
+out of AI data usage, Texas can ensure that citizens m aintain control over their digital presence, 
+particularly as AI’s reach extends into daily life.  Witnesses also highlighted the importance of 
+protecting minors’ data, emphasizing that children deserve stronger privacy protections in an AI -
+driven world.  
+ 
+28 |  Page 
+ 
+ 
+ Transparency was another critical focus, as experts argued that Texans deserve to know when they 
+are engaging with AI.  Whiting emphasized that “notice is the absolute bare minimum” when AI 
+is involved, underscoring the need for clear disclosures to mainta in public trust.  Many AI 
+interactions currently occur without users’ explicit knowledge, creating the  potential for 
+misunderstanding or even misuse of AI -generated outputs.  Testimony recommended that 
+companies and public entities using AI provide “conspi cuous” notice to users, making it easy for 
+individuals to identify AI involvement in decisions affecting them. 
+ 
+Transparency also extends to data practices.  Witnesses noted that users often lack clarity on how 
+their data is collected, processed, and potentially shared.  To address this, the testimony 
+recommended that companies provide clear documentation about data  handling practices, enabling 
+users to make informed decisions.  This approach aligns with Texas’ past work in data privacy, 
+creating a natural extension for AI policy to protect citizens’ rights in new digital contexts. 
+ 
+Accountability in AI applications was another essential theme, with the testimony suggesting that 
+policies should emphasize compliance and ethical use rather than purely punitive measures.  
+Witnesses argued that the regulatory framework should promote self -assessment and correction, 
+enabling companies to rectify issues before facing penalties.  Whiting proposed a “cure process” 
+to allow organizations the chance to align with regulations, provided they act in good faith to 
+address any non -compliance.  
+ 
+At the same time, testimony supported the need for meaningful enforcement to deter misuse.  An 
+effective regulatory structure would offer flexibility for companies to comply while retaining 
+strong consequences for those who exploit AI unethically.  This ba lance would foster responsible 
+innovation, encouraging companies to develop AI solutions that are both effective and ethically 
+sound. 
+ 
+Witnesses also highlighted the importance of clear accountability standards tailored to different 
+players within the AI ecosystem.  For instance, developers, deployers, and end- users of AI systems 
+may require distinct regulatory obligations.  Such tailored regulations could address each group’s 
+specific impact on the technology, ensuring that responsibilities are appropriately distributed. 
+ 
+A risk -based approach to AI regulation emerged as a compelling strategy, reflecting the fact that 
+AI applications vary widely in their potential impacts.  Testimony pointed to models from 
+jurisdictions like the European Union, which differentiates regulati ons by classifying AI 
+applications based on their associated risks.  High- stakes fields, like healthcare and finance, 
+involve significant consequences for individuals and, therefore, warrant additional protections. 
+ 
+Whiting explained that high- risk AI systems make decisions in areas such as “employment, 
+financial, healthcare, housing, and legal services,” impacting individuals in significant ways.  
+Under a risk -based model, applications with potentially severe consequences would undergo 
+greater scrutiny, while low -risk applications would face fewer regula tory hurdles.  Such a 
+framework would allow Texas to prioritize oversight for high- impact uses, promoting both public 
+safety and market efficiency.  
+ 
+While AI holds promise in many areas, witnesses warned of applications that pose unacceptable 
+Page | 29 
+ 
+ 
+ risks to society.  The testimony highlighted certain uses that should be outright prohibited, such as 
+AI applications that manipulate human behavior or exploit vulnerable populations.  Technologies 
+like untargeted facial recognition and emotion recognition in sensitive environments – such as 
+schools and workplaces – were viewed as invasive and potentially harmful. 
+ 
+Another specific concern was the use of AI to create malicious or exploitative content, such as 
+deepfakes that impersonate individuals without their consent.  Testimony called for banning 
+applications that misuse AI to create realistic but misleading digital representatives, especially in 
+ways that could harm reputations or public trust.  These prohibitions would help Texas draw clear 
+ethical lines, preventing AI applications that could infringe on individual rights or harm the social 
+fabric.  
+ 
+Enforcement mechanisms were a key focus, with experts recommending a centralized approach 
+through the Texas Attorney General’s Office to streamline compliance oversight.  Whiting argued 
+that the Attorney General’s Office could oversee AI regulations under deceptive trade practices 
+laws, leveraging existing frameworks to enforce responsible AI use effectively.  This approach 
+would simplify enforcement, ensuring that consumers have a straightforward path for recourse if 
+harmed by AI applications. 
+ 
+In addition to centralized oversight, witnesses encouraged regulatory flexibility to keep pace with 
+AI’s rapid development.  Texas could support enforcement through self -regulatory standards, 
+allowing companies to certify their compliance with industry bes t practices.  Testimony suggested 
+that this flexibility would allow regulators to adapt to AI’s dynamic nature while providing 
+companies with clear guidelines for ethical implementation.  
+ 
+An equitable AI future requires that technology be accessible to organizations of all sizes, from 
+major corporations to small businesses.  Testimony revealed a disparity in AI access, with larger 
+firms more readily adopting advanced AI tools.  Ben Bhatti, representing the Texas AI Association, 
+spoke on the importance of bridging this gap by creating public -private partnerships that connect 
+small and mid -sized businesses with scalable AI solutions.  Such efforts would ensure that Texas 
+businesses of all size s benefit from AI’s potential to improve efficiency and productivity. 
+ 
+Witnesses also advocated for educational initiatives to prepare Texas’ workforce for an AI -driven 
+economy.  University programs and workforce training in AI were crucial steps for equipping 
+students and professionals with essential skills.  By partnering w ith educational institutions, Texas 
+could ensure a workforce ready to navigate and innovate within the AI landscape, fostering a future 
+where Texans across various industries can thrive in technology- enhanced roles.  
+ 
+The testimony provided a thoughtful roadmap for Texas to lead in AI policy, balancing the need 
+for innovation with public protection.  Texas can develop a framework that serves both the public 
+interest and the technology sector by prioritizing human dignit y, transparency, accountability, and 
+a risk -based regulatory approach.  Updating the Texas Data Privacy and Security Act, fostering 
+transparency in AI use, and creating flexible compliance standards will promote responsible AI 
+development across industries . 
+  
+30 |  Page 
+ 
+ 
+  
+  
+Page | 31 
+ 
+ 
+ CONCLUSION  
+ 
+The insights provided through expert testimony in the committee’s April 29, 2024, and October 1, 
+2024, hearings underscore both the transformative potential and the significant risks associated 
+with AI integration across Texas’ public and private sectors.  AI holds promise for enhancing 
+efficiency, improving services, and fostering innovation in areas such as healthcare, transportation, 
+financial services, and public safety.  AI has already become deeply woven into everyday life, 
+influencing tasks from traf fic navigation to personalized recommendations.  However, AI’s rapid 
+adoption brings challenges that require immediate legislative attention to ensure responsible 
+deployment, safeguard individual rights, and prevent misuse. 
+ 
+Fundamental principles emerged from the testimony to guide AI regulation, including the 
+importance of human dignity, transparency, accountability, and risk- based governance.  AI must 
+serve humanity with safeguards that protect privacy, autonomy, and control over personal data.  
+Transparency is crucial, as Texas citizens deserve to know when and how AI impacts them, 
+whether in their financial decisions, health outcomes, or online interactions.  Requiring explicit 
+disclosure of AI’s involvement in decision- making processes can help foster informed and ethical 
+engagement with technology, building public trust. 
+ 
+The testimony also highlighted the need for a risk- based regulatory approach to tailor regulations 
+to specific applications.  High- risk uses of AI – such as those in defense, elections, and healthcare 
+– warrant stricter oversight and additional protections .  In military contexts, for example, expert 
+testimony emphasized the importance of keeping human oversight in AI -powered systems.  
+Meanwhile, less invasive applications can benefit from flexible guidelines that promote innovation 
+without imposing excessive business restrictions.  This risk -based approach allows Texas to 
+address AI’s diverse applications appropriately, focusing regulatory attention on areas with the 
+most significant potential for harm.  
+ 
+Concerns about data bias and transparency in AI training were prominent themes in the testimony, 
+as these issues are foundational to the fairness and reliability of AI systems.  Experts highlighted 
+that AI models trained on biased or non- representative data can perpetuate existing societal biases, 
+leading to unequal outcomes across different demographics.  Testimony underscored the need for 
+transparent data practices, calling AI developers to disclose data sources and ensure that training 
+datasets represent diverse populations.  This transparency can help mitigate biases and promote 
+equitable results, particularly in high -stakes applications like healthcare, hiring, and f inancial 
+services.  Addressing data bias and enhancing transparency in AI training are critical steps to 
+fostering public trust and ensuring AI systems operate fairly across all sectors. 
+ 
+Moreover, educational initiatives are essential for preparing an AI -literate workforce that 
+is equipped to manage AI technologies responsibly.  By fostering partnerships with education 
+institutions, Texas can ensure its citizens are prepared to thrive in a n AI -driven future, filling 
+critical roles across industries.  
+ 
+In sum, the insights gathered from this testimony provide Texas with a roadmap for responsible 
+AI governance.  By implementing policies that prioritize public welfare, uphold transparency, and 
+promote ethical standards, Texas can set a national example for  thoughtful regulation.  The 
+32 |  Page 
+ 
+ 
+ legislative recommendations that follow are rooted in this testimony, offering practical steps to 
+protect Texas’ citizens and ensure that AI serves as a beneficial and accountable tool across the 
+state.  
+  
+Page | 33 
+ 
+ 
+ RECOMMENDATIONS  
+ 
+Examining the current state of AI/ET and its uses by public and private actors in modern society:  
+ 
+RECOMMENDATION 1: Establish a comprehensive AI inventory for public 
+agencies, requiring all Texas state agencies to conduct an annual audit of AI 
+systems currently deployed, identifying their functions, data sources, and any 
+potential risk of bias or misuse. 
+ 
+RECOMMENDATION 2: Develop AI -specific training for public sector 
+employees, focusing on responsible AI use, data privacy, and bias mitigation in 
+decision -making processes. 
+ 
+RECOMMENDATION 3: Mandate risk assessments for high- risk AI deployment 
+by public and private actors , requiring a documented impact assessment evaluating 
+the system’s potential societal and legal effects.  
+ 
+RECOMMENDATION 4: Implement transparency standards for high- risk AI in 
+the private sector, mandating disclosure requirements and transparency around data 
+sources and algorithmic decision- making processes. 
+ 
+Determining the impact of the application of AI/ET on various sectors of society, including 
+employment, healthcare, homeland and national security, and transportation:  
+ 
+RECOMMENDATION 5: Create AI workforce development programs 
+prioritizing training for workers at risk of displacement due to automation. 
+ 
+RECOMMENDATION 6: Provide upskilling training for workers in preparation 
+for the implementation of new technologies.  
+ 
+RECOMMENDATION 7: Encourage employers to provide transition programs 
+for AI -displaced workers, incentivizing the offer of  retraining.  
+ 
+RECOMMENDATION 8: Require transparency in AI by requiring the disclosure 
+of the type of data used to program an AI system.  
+ 
+RECOMMENDATION 9: Establish AI risk monitoring for high- risk AI systems 
+used in consequential decisions. 
+ 
+RECOMMENDATION 10: Develop standards for human oversight, ensuring AI 
+systems used in high- risk situations operate with meaningful human control. 
+ 
+RECOMMENDATION 11: Collaborate on AI security standards with federal 
+entities, such as the National Institute of Standards and Technology.  
+ 
+34 |  Page 
+ 
+ 
+ RECOMMENDATION 12: Implement protections for the use of copyrighted data 
+and unauthorized use of a person’s likeness. 
+ 
+Identifying policy considerations necessary to ensure the responsible deployment of AI/ET in 
+Texas by both public and private actors:  
+ 
+RECOMMENDATION 13: Establish an Advisory Council to provide subject 
+matter assistance to state agencies implementing regulatory guidance for licensed 
+industries under their purview. 
+ 
+RECOMMENDATION 14:  Create a regulatory sandbox to allow innovation to 
+thrive outside standard regulations. 
+ 
+RECOMMENDATION 15: Require disclosure of the use of AI to consumers in 
+high- risk AI interactions.  
+ 
+RECOMMENDATION 16: Require AI systems to include measures that reduce 
+bias and prevent algorithmic discrimination.  AI system developers should be 
+required to certify their systems as free from biases based on race, gender, or other 
+protected categories before deployment.  
+ 
+RECOMMENDATION 17: Strengthen laws to address emerging digital threats, 
+including deep fake technology, election interference, revenge porn, and child 
+sexual abuse material.  
+ 
+RECOMMENDATION 18: Establish strict unacceptable uses of AI that intrude 
+on privacy, exploit vulnerable populations, manipulate individuals, or misuse 
+sensitive data.  
+ 
+RECOMMENDATION 19: Evaluate and update laws to assign clear liabilities 
+for AI- related outcomes, ensuring accountability for developers, deployers, and 
+users of AI systems.  
+ 
+RECOMMENDATION 20: Make necessary adjustments to the Texas Data 
+Privacy and Security Act to include AI and emerging technologies. 

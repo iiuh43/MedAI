@@ -1,0 +1,460 @@
+Page 1  April 2023 / Vol. 28  
+STEAM  
+NEWSLETTER  
+THE OFFICIAL NEWSLETTER FOR THE ILLINOIS DEPARTMENT OF 
+INNOVATION & TECHNOLOGY (DoIT) STEAM EDUCATION GROUP  
+Celebrate Innovation & Technology Month  
+Governor JB Pritzker has proclaimed April 2023 as Innovation and Technology Month  
+in Illinois. This recognition provides a time to celebrate the significant contributions 
+that technology and innovation make to the state's economy and society. The month is 
+marked by a series of events and workshops that showcase the latest advancements 
+and encourage collaboration between industry leaders, entrepreneurs, and innova-
+tors. It is an opportunity to recognize the state's thriving tech ecosystem and support 
+the growth of technology -related programs, businesses, and startups.  
+  
+The increasing daily influence in the use of artificial intelligence offers one example of 
+the integral role education can play to build an environment that fosters development 
+and responsible use.  We encourage you to explore the resources and events such as 
+those included in this volume and engage in discussions about technology innovation 
+in your region.  
+  
+The second World Quantum Day  will be celebrated on April 14, 2023, and National 
+Quantum Coordination Office  (NQCO) offers four ways to engage in World Quantum 
+Day activities. The National Q -12 Education Partnership  has developed informal and 
+formal learning opportunities for Quantum Information Science and Engineering 
+(QISE) learning .  Q-12 created “This is Quantum ,” a marquee video made for World 
+Quantum Day 2022, but is timeless and can be shared again for 2023. A recording and 
+slides created in 2022 to introduce quantum information science and Quantum Re-
+sources are available on the DoIT STEAM Quantum website .  
+Page 2  
+• K - 4 
+Climate Kids | What's the difference between weather and climate?  
+• 5 - 8 
+NASA -JPL | NASA Space Voyagers: The Game  
+• 9 - 12 
+TeachEngineering | Design Step 1: Identify the Need  
+STEAM resources for in -person, hybrid, remote learning, and  
+professional development  
+• cK-12 | Adaptive Practice  
+• DoIT | Quantum Illinois  
+• National Q -12 Education Partnership | QISE Education Resources and Tools  
+• NASA | Classroom Combo: Spacesuit Science (Pressure)  
+• Smithsonian | Lights Out  
+• UIC | AI on the edge  
+• U of I - NCSA | Center for Artificial Intelligence Innovation  
+• U of I | Artificial Intelligence for Future Agricultural Resilience, Management, and 
+Sustainability Institute   
+• U of I - Computer Science | Artificial Intelligence  
+• aiEDU | Intro to AI  
+• ISTE | Artificial Intelligence in Education  
+• NASA JPL | 18 Ways NASA Uses Pi  
+• ReadWriteThink.org | Teaching with Technology  
+• UIUC College of Education | How will Artificial Intelligence (AI) Power New Learning 
+in Education?  
+Page 3  
+Understanding the UN Report on Ozone Layer Recovery  
+“The ozone layer is slowly restoring itself and is ex-
+pected to be on par with 1980 levels by 2066, according 
+to a United Nations assessment  of the goals set forth in 
+the Montreal Protocol released this month.  
+Ozone is a naturally occurring gas comprising three oxy-
+gen atoms. The stratospheric ozone layer is essential in 
+protecting humans and the environment from the harm-
+ful ultraviolet light from the sun. ” 
+NASA: A Future Aircraft Design, Supercomputed  
+“No, it ’s not hypermodern art. This image, generated 
+by NASA ’s high -performance computers, shows a 
+Transonic Truss Braced Wing (TTBW) aircraft con-
+cept being tested in a virtual wind tunnel, showing 
+how its wings interact with the air around them.  
+In this case, the dark red area along the front of the wing represents higher -speed 
+airflow as the TTBW ’s wings, which are thinner than those of today ’s commercial 
+airliners, pierce the air... In flight, it could consume  up to 10% less jet fuel  than a 
+standard airliner. ” 
+Illinois Tech: GPT -4 Passes the Bar Exam  
+“Daniel Martin Katz, law professor at 
+Illinois Tech ’s Chicago -Kent College of 
+Law, demonstrates that OpenAI ’s lat-
+est deep learning model excels in 
+complex legal reasoning and has pro-
+found implications for the legal sys-
+tem … In a period of roughly four 
+years, the leading large language 
+model family (GPT) has progressed 
+from zero percent on the Multistate 
+Bar Exam for GPT -2 to nearly 76 percent on the Multistate Bar Exam in GPT -4.” 
+
+   
+ 
+ 
+ 
+ 
+ 
+Page 4  
+Thu. March 30 | 6 pm - 8 pm  | Rochester High School  
+Central Illinois STEM Fair  
+“This free regional event is open to students grades K -12, their families, teach-
+ers, and school administrators from all schools throughout central Illinois (not 
+just Rochester). Admission is free, but tickets are required .” 
+Fri. March 31 - Sat. April 1 | 9 am - 4 pm  | UIUC, Champaign  
+Engineering Open House: The Future, Today  
+“To our visitors we hope that EOH provides an outlet for everyone 
+to explore engineering and STEM related fields. This year we wel-
+come 200+ exhibits to EOH ranging from drone demonstrations to 
+prosthetic hands and a wind tunnel demo. ” 
+Application Due | Sat. April 1  
+Students for Innovation: Advocacy Day  
+“Students are selected through an ap-
+plication process to present in -person 
+their innovative progress during a 
+one-day event at the Illinois State 
+Capitol in Springfield.  We encourage 
+all schools throughout Illinois to apply (Space is limited). Applications are 
+due April 1, 2023. ” 
+Tue. April 4 | 3:30 pm - 4:30 pm | Online  
+CS & STEM Networking Meeting  
+“Teachers, administrators, and curriculum stakeholders are invited to at-
+tend, as well CS & STEM educators of all experience levels and at all grade 
+levels. Whether you ’re just starting out or interested in taking your district ’s 
+CS & STEM program to the next level, this networking group will help you 
+achieve your goals. ” 
+
+ 
+  
+ 
+ 
+ 
+Page 5  
+Wed. April 5 | 8:45 am - 3:20 pm | Online   
+6th Illinois Health Data Analytics Summit   
+“This virtual platform will bring leaders in healthcare, medicine, science, 
+and business together to discuss the latest AI and machine learning trends 
+in Healthcare. This year, we will focus on applications of rapidly emerging 
+Generative Models and investigate how they can be leveraged to synthesize 
+increasingly realistic and useful electronic health record (EHR) data, includ-
+ing images, sounds, and videos. We will discuss various deep generative 
+model frameworks, their applications, and the risk of generative AI and its 
+potential positive economic impact in accelerating healthcare -related pre-
+dictive model development. ” 
+Thu. April 6 | 5 pm - 6:30 pm  | DeKalb Public Library  
+Teen STEM Café: Entrepreneurship, Innovation and 
+Engineering Design   
+“Learn about innovation in the fields of toy design and candy making... At our 
+monthly Teen STEM Cafe s, we have short talks about STEM fields, related 
+STEM activities and FREE Pizza from Hy -Vee! Family members are welcome. ” 
+Tue. April 11 | 7 pm - 8 pm | Online  
+Life Support: What the International Space Station Teaches 
+Us About Our Changing Earth (Exploring Space Lecture)   
+“In several decades of continuous presence on the International Space Sta-
+tion, we have learned surprising things about the engineering of systems 
+that support human life … Spaceflight gives us the opportunity to under-
+stand climate change and mitigate its effects to improve the resilience of 
+communities on our home planet. ” 
+
+  
+ 
+ 
+ 
+ 
+Page 6  
+Tue. April 11 | 3 pm - 4 pm | Online  
+Using Rockets to Investigate Forces and Motion | 
+Cultivating Learning   
+“With the launch of the Artemis missions, student interest in rocketry and 
+space exploration is steadily growing. Looking for curricular connections to 
+rocketry but aren ’t sure where to begin? Join educators from the National Air 
+and Space Museum to explore a variety of ways to use rocketry to teach your 
+students about forces and motion.  Participants will explore the How Things 
+Fly website, learn about rocketry activities for a variety of grade and skill lev-
+els, and build their own simple straw rocket. Leave with ready -to-use activi-
+ties and resources and suggestions for scalability and adding technology. ” 
+Wed. April 12 | 6 pm - 7:30 pm  | UIS Student Union  
+Ethical Artificial Intelligence:  An Industry Perspective   
+“In this talk we will discuss different conceptions of Ethi-
+cal AI from the perspective of these parties.   In particular, 
+we will look at risks associated with algorithmic decision 
+making, the practical tradeoffs between performance and explainability, and 
+how those risks and tradeoffs impact people as we work towards understand-
+ing ethical AI as a stochastic process. ” 
+Wed. April 12 | 6:30 pm - 8:30 pm  | DeKalb, IL   
+STEM Café: Why an Acre Matters: How Digital 
+Technology is Transforming Agriculture   
+“Hear from a John Deere product manager and an engineering manager to 
+learn about the development of precision digital technology over the past 
+two decades. Learn how new technologies, such as autonomous tractors, 
+weed -targeting computers and precision fertilizer applicators, are helping 
+farmers get better results while using fewer chemicals, helping to reshape 
+America ’s acres. ” 
+
+ 
+  
+ 
+ 
+ 
+Page 7  
+Fri. April 14 | 9 am - 1 pm  | Chicago  
+Student Research Showcase  
+“The 5th Annual Student Research Showcase celebrates 30 students as they 
+share their mentorship experience and innovative research through the 
+Mentor Matching Engine.  During the 2022 -23 school year, students across 
+the state of Illinois have identified research questions in a variety of fields 
+including STEM, Social Sciences, Arts, Humanities, and more. In partnership 
+with professional mentors on the Mentor Matching Engine, they have devel-
+oped their ideas, refined their skills, and created innovative solutions. Join 
+ISTC Education in person to celebrate our students! ” 
+Fri. April 14 | 4 pm - 6:30 pm  | Materials Research Laboratory, Urbana  
+World Quantum Day   
+“Join the Illinois Quantum Information Science and Technology Center  
+(IQUIST) for an evening filled with quantum information science -based activi-
+ties and events. ” “This is Quantum  is a marquee video made by the  National Q -
+12 Education Partnership  for World Quantum Day 2022, but is timeless and can 
+be shared again for 2023 and beyond. ” Additional resources can be found here. 
+The educational webinar “What is quantum science and why should I care? ” 
+hosted by DoIT recording and slides from 2022 can be found here.  
+Fri. April 14 | 9 am - 9:30 am | Online   
+Flights of Fancy Story Time: Hare and Tortoise Race to the 
+Moon by Oliver J. Corwin   
+“Join us for Oliver J. Corwin ’s twist on the classic tale as Hare and Tortoise to 
+the Moon with rockets! Take a closer look at examples of rockets that have 
+been built for different purposes and then create your own rocket design. ” 
+
+  
+ 
+ 
+ 
+ 
+Page 8  
+Apply by Mon. April 17   
+The Genes in Space Journey | 2023 Contest  
+The Challenge:  
+“Students in grades 7 through 12: design DNA experiments that address a 
+challenge in space exploration.  
+Life on Earth has evolved under the effects of our gravity and the protection 
+of our atmosphere. Human space exploration opens up amazing new oppor-
+tunities for life, and serious challenges too. ” 
+Tue. April 18 | 5:45 pm - 7:45 pm | Online  
+The Sun: Front and Center - A Grand Tour of the Solar System   
+“The Sun, the 4.5 -billion -year -old star at the center of the solar system, is the 
+glue that holds it together, and its activity provides a protective bubble that 
+shields the planets from damaging galactic radiation. Astrophysicist and cos-
+mologist  Hakeem Oluseyi  shines a light on this special star. ” 
+Wed. April 19 | 2 pm - 7 pm  | IA TP , Springfield  
+Illinois Assistive Technology Program Open House  
+“Join us for an Open House to visit with staff, see a wide array of Assistive 
+Technology (AT) devices, and learn more about our new programs and ex-
+isting services.  
+Tour our new building and visit our:  
+• Expanded Demonstration Center  
+• Interactive Smart Home  
+• Accessible Tech Kitchen  
+• IATP Makers Fabrication Lab  
+To help us with our planning, please R.S.V.P. by calling (217) 522 -7985 or 
+email  iatp@iltech.org .” 
+
+ 
+ 
+ 
+ 
+ 
+ 
+Page 9  
+Thu. April 20 | 1 pm - 4 pm | Streamed Online  
+Innovation Day  
+Listen to stakeholders in Illinois celebrate Illinois innovation and engage in a 
+statewide policy discussion around emerging technology that will cultivate 
+curiosity and leverage investments. Through discussions on topics such as ar-
+tificial intelligence and quantum computing, you can learn more about the 
+next steps on ways to strengthen development and pipelines in science, tech-
+nology, engineering, arts, and math.  
+Fri. April 21 | 9 am - 5:30 pm  |  
+Northwestern Pritzker School of Law, Chicago  
+IMPACT Series: How ChatGPT and Generative AI Will 
+Change Legal Services  
+“Introducing a new joint Executive Education series created by Northwestern 
+Pritzker School of Law and McCormick School of Engineering designed to 
+help law firm leaders, lawyers, and other legal professionals understand and 
+make the most of the computational technologies that are transforming the 
+delivery of legal services. ” 
+Sat. April 22  | Illinois Wesleyan University  
+7th Annual Celebrating High School Innovators competition   
+Watch the final round competition presentations. “The competition identifies, 
+fosters, and celebrates high school students whose contributions are excep-
+tional and inspirational. Current 9 th through 12 th grade  students were eligible 
+to apply in five areas:  
+• Arts, Media & Literature  
+• Business Entrepreneurship  
+• Health & Nutrition  
+• Social Entrepreneurship  
+• Science, Technology, Engineering & Math (STEM) ” 
+
+ 
+ 
+  
+ 
+ 
+Page 10  
+Thu. April 27 | 3:30 pm - 4:30 pm | Online  
+Artificial Intelligence in Your Classroom  
+“Artificial intelligence is here, and unlike what you ’ve seen in the movies, AI 
+isn’t coming to destroy humans – it’s coming to disrupt our classrooms...  
+Join us as we cut through the AI buzz and examine the implications of artifi-
+cial intelligence in an education setting. In particular, we ’ll focus in on how 
+recently released and forthcoming AI tools could impact how students learn 
+and create going forward, as well as how educators can stay ahead of the 
+curve with ready -to-use AI resources. ” 
+Thu. April 27 | 9:15 am - 1 pm  | Chicago  
+STEM Challenge Showcase   
+“The 10th Annual STEM Challenge Showcase celebrates 20 student teams as 
+they share their mentorship experience and present their innovative solutions 
+to pressing industry challenges.   Over the past 4 months students have teamed 
+up with experts in the field to collaborate on an authentic industry challenge. 
+Students and their mentors have worked to collaborate, design, prototype, it-
+erate, synthesize, and ideate to determine the best solution.   Join ISTC Educa-
+tion for an in -person celebration as we hear from students across Illinois. ” 
+Sat. April 29   
+Illinois Institute of Technology  
+Chicago Student Invention Convention  
+“The Chicago Student Invention Convention is a program that typically runs for 
+10 weeks and engages K -8th grade students in an invention curriculum. ” April 
+is scheduled for competition and awards, including in -person showcase and 
+awards ceremony scheduled at IIT in Chicago.  
+
+  
+ 
+ 
+ 
+ 
+Page 11  
+Sat. April 29 | 10 am - 4 pm  | College of DuPage  
+STEMCON  
+“STEMCON is a public outreach event designed to inspire and educate K -12 
+students in the fields of science, technology, engineering, and mathematics. 
+This family -friendly event encourages scientific discovery through hands -on 
+activities and demonstrations while providing the opportunity to learn about 
+scientific careers from actual researchers, industry representatives and STEM 
+educators. ” 
+Challenge Open | March 1 - May 15  
+NASA Aeronautics Dream with Us Design Challenge  
+“Students ages 13 -18, come dream with NASA Aeronautics and help us envi-
+sion and market a more sustainable commercial aircraft. Put together your 
+dream team of 2 -4 participants and build a marketing plan to help convince 
+a team of NASA experts that your design for a commercial aircraft should be 
+chosen as the best sustainable design. ” 
+July 17 - 21 | University of Chicago Data Science Institute   
+AI & Science Summer School 2023   
+“The AI + Science  Summer School will be held 
+from  July 17th – 21st, jointly hosted by the  Data Science Institute  (DSI) and 
+the Institute for Mathematical and Statistical Innovation  (IMSI) at the Uni-
+versity of Chicago. This year ’s speakers will focus on applications of AI and 
+Machine learning in core areas of domain science – materials and chemistry, 
+physics, climate change and biology. The goal of the program is to introduce 
+a new generation of diverse interdisciplinary graduate students and re-
+searchers to the emerging field of AI + Science. We also hope this program 
+can build community and spur new research directions focused on AI -
+enabled scientific discovery across the physical and biological sciences. ” 
+
+Page 12  
+Earth Day - April 22, 2023  
+Earth Day Action Toolkit  
+“This year, we rally behind the theme ‘Invest In Our Planet ’ , which highlights the 
+importance of dedicating our time, resources, and energy to solving climate change 
+and other environmental issues. Investing in our planet is necessary to protect it 
+and the best way to pave a path towards a prosperous future. ” 
+Celebrate Earth Day With Education Resources From NASA  
+“Explore these lessons and activities from NASA/JPL Edu to 
+engage students in Earth Day on April 22. Get notified about 
+upcoming events and the latest news from the education team 
+at NASA's Jet Propulsion Laboratory. ”  
+The NASA Pi Day Challenge  
+“You may already know all about the mathematical constant pi ( π) and how it can be 
+used to calculate things like the circumference of a circle or the volume of a sphere. But 
+did you know pi is also used all the time by NASA scientists and engineers to explore 
+other planets?  
+In this challenge, you can solve some of the same problems NASA scientists and engi-
+neers do using pi! ” 
+World Intellectual Property Day – April 26, 2023  
+Women and IP: Accelerating innovation and creativity  
+“In 2023, we celebrate the ‘can do ’ attitude of 
+women inventors, creators and entrepreneurs 
+around the world and their ground -breaking 
+work.  
+Women in all regions are shaping the world through their imagination, ingenuity 
+and hard work, but often face significant challenges in accessing the knowledge, 
+skills, resources and support they need to thrive. ” 
+
+ 
+Page 13  
+NIH | STEM T eaching Resources  
+“The free K -12 STEM education materials on this site are provided by the institutes 
+and centers within the National Institutes of Health (NIH) and NIH grantees, includ-
+ing Science Education Partnership Award (SEPA)  recipients. ” 
+IMSA | Summer Professional Development   
+“From early childhood to grade 12, there ’s a pro-
+gram for everyone!   Learn more about in -person 
+summer professional development opportunities 
+at IMSA. The IMSA Little STEAMers, IMSA Fusion, 
+and Problem -Based Learning Series focus on how educators can teach curriculum 
+in a way that follows core competencies which include inquiry -based, problem -
+centered, competency -based, and integrative teaching and learning.  The IMSA 
+Team follows participants ’ progress and are available to answer questions along 
+the way. ”  
+NIU STEAM – Summer Pre -college Experience Programs   
+“NIU STEAM  provides students, educators, and commu-
+nity members with experiences that increase individual 
+STEM/STEAM knowledge and skills. This summer, NIU 
+STEAM is offering two pre -college experience programs 
+for eligible students at Northern Illinois University ’s 
+main campus in DeKalb.  
+• Huskies BELONG : Open to high school students graduating in 2024 who have a 
+documented disability impacting their education, who intend to go to college 
+and are interested in STEAM careers.  
+• Food and Nutrition Science : Open to high school class of 2024 and 2025 students 
+interested in food and nutrition science careers. ” Apply by April 15.  
+Both of these programs are available to eligible students at NO COST to the student.  
+
+Page 14  
+"Arts foster scientific success" -Dr. Temple Grandin  
+This series is dedicated to showing how art and creativity play a crucial role in our socie-
+ty on its own and even within the STEM fields. There's a great deal of artistry that goes 
+into our favorite products and media we consume that make our lives easier, or at least a 
+bit more enjoyable, and teach us valuable lessons about history.  
+NEA Art Works Podcast  
+“The agency ’s podcast series contains audio interviews with arts leaders from 
+across the country on arts issues of interest. Recent interviews include curator 
+Amanda Burdan of the Brandywine Museum of Art on the  Votes for Women: A 
+Visual History  exhibition; visual artist 
+and disability rights advocate Gordon 
+Sasaki on the importance of the Amer-
+icans with Disabilities Act; and Randall 
+Kline, executive artistic director of 
+SFJAZZ, on their new approach to the 
+performing arts during a pandemic. ” 
+UChicago scientists develop new tool to protect artists from 
+AI mimicry  
+“A new tool allows artists to upload 
+digital images with slight changes 
+that are nearly invisible to the human 
+eye, but confound AI art generators 
+searching for references...  
+Now, a team of University of Chicago computer scientists have built a tool that 
+protects artists from the absorption of their style into these AI models. 
+Called  Glaze, the software “cloaks ” images so that models incorrectly learn the 
+unique features that define an artist ’s style, thwarting subsequent efforts to gen-
+erate artificial plagiarisms. ” 
+
+Page 15  
+ 
+https://doit.illinois.gov/initiatives/doit -steam.html   
+ 
+Follow DoIT on Twitter @IllinoisDoIT  
+ 
+Follow DoIT on Facebook  
+  
+Follow DoIT on LinkedIn @IllinoisDoIT  
+ 
+Please submit STEAM ideas, comments, or questions using our contact us form . 
+Any links being provided are for educational purpose use  only; they do not constitute an endorsement, approval, affiliation, sponsorship, or partnership by the 
+State of Illinois, Department of Innovation & Technology (DoIT) of any products, services or opinions of any of the linked en tities. The State  of Illinois bears no 
+responsibility for the accuracy, legality or content of the external site or for that of subsequent links. Contact the extern al site for answers to questions regarding its 
+content. The State of Illinois reserves the right to add or remove the links provided at any  time without notice in its sole  discretion and shall not be obliged to give a 
+reason for doing so.  

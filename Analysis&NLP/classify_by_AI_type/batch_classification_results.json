@@ -1,0 +1,22 @@
+[
+    {
+        "PDF Link": "https://www.cms.gov/Regulations-and-Guidance/Guidance/Manuals/downloads/som107ap_a_hospitals.pdf",
+        "Classified Categories": "[]",
+        "Scores": "{}"
+    },
+    {
+        "PDF Link": "https://nam.edu/wp-content/uploads/2021/07/4.3-AI-in-Health-Care-title-authors-summary.pdf",
+        "Classified Categories": "['Clinical Documentation AI', 'Education and Training AI', 'Public Health AI']",
+        "Scores": "{'Clinical Documentation AI': 0.6387457286457633, 'Education and Training AI': 0.6627626005285107, 'Public Health AI': 0.6340489186637397}"
+    },
+    {
+        "PDF Link": "https://www.chfs.ky.gov/agencies/dph/oc/Documents/FY24-Clinical-Service-Guide.pdf",
+        "Classified Categories": "[]",
+        "Scores": "{}"
+    },
+    {
+        "PDF Link": "https://dcr.hawaii.gov/wp-content/uploads/2024/08/2024-Community-Resource-Guide-Part-1.pdf",
+        "Classified Categories": "[]",
+        "Scores": "{}"
+    }
+]
