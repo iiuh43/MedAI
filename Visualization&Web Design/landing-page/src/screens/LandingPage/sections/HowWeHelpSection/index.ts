@@ -1,1 +1,0 @@
-export { HowWeHelpSection } from "./HowWeHelpSection";
