@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "MedAI",
+			"path": "../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
