@@ -1,0 +1,136 @@
+[
+  {
+    "URL": "https://opwdd.ny.gov/system/files/documents/2020/01/cco-policy-manual-master_acc_1.pdf",
+    "AI Applications": [],
+    "Category": "State",
+    "predicted_specialty": "unclassified",
+    "Year": 2018,
+    "Focus Areas": "Reliability and Performance, Privacy and Security, Ethics and Consent, Safety and Risk Management, Governance Committees",
+    "State": "New York",
+    "Title": "Cco Policy Manual Master Acc 1",
+    "UsedFallback": true
+  },
+  {
+    "URL": "https://www.ama-assn.org/system/files/a25-refcomm-b-annotated.pdf",
+    "AI Applications": "['Clinical Documentation AI', 'Education and Training AI']",
+    "Category": "Professional Medical Organization",
+    "predicted_specialty": "radiology, psychiatry, neurology",
+    "Year": 2025,
+    "Focus Areas": "Reliability and Performance, Privacy and Security, Ethics and Consent, Safety and Risk Management, Governance Committees",
+    "State": "",
+    "Title": [
+      "Final Report of Reference Committee B",
+      "metadata"
+    ],
+    "UsedFallback": false
+  },
+  {
+    "URL": "https://www.chfs.ky.gov/agencies/os/oig/Kentucky%20Regulations%20and%20Statutes/Telehealth%20Terminology%20Glossary%20FINAL%20-%20July%202022.pdf",
+    "AI Applications": [],
+    "Category": "State",
+    "predicted_specialty": "unclassified",
+    "Year": 2022,
+    "Focus Areas": "Privacy and Security, Ethics and Consent, Safety and Risk Management",
+    "State": "Kentucky",
+    "Title": "Telehealth Terminology Glossary Final   July 2022",
+    "UsedFallback": true
+  },
+  {
+    "URL": "https://mmshub.cms.gov/sites/default/files/Del-8-17-MMS-OY1-Information-Session-April-2025.pdf",
+    "AI Applications": [],
+    "Category": "State",
+    "predicted_specialty": "surgery, pulmonology",
+    "Year": 2025,
+    "Focus Areas": "Bias and Fairness, Reliability and Performance, Privacy and Security, Transparency and Explainability, Ethics and Consent, Safety and Risk Management, Governance Committees",
+    "State": "",
+    "Title": [
+      "MMS Infosession-Artificial Intelligence (AI) in Action: Generating Claims about Measure Properties",
+      "metadata"
+    ],
+    "UsedFallback": false
+  },
+  {
+    "URL": "https://mhcc.maryland.gov/mhcc/pages/home/meeting_schedule/documents/updates/2024/updt_20240222.pdf",
+    "AI Applications": [],
+    "Category": "State",
+    "predicted_specialty": "unclassified",
+    "Year": 2024,
+    "Focus Areas": "Reliability and Performance, Privacy and Security, Safety and Risk Management",
+    "State": "Maryland",
+    "Title": [
+      "EXECUTIVE DIRECTION Government Relations and Special Project – Tracey DeShields State Policy Update",
+      "font-size"
+    ],
+    "UsedFallback": false
+  },
+  {
+    "URL": "https://terra-docs.s3.us-east-2.amazonaws.com/IJHSR/Articles/volume5-issue1/2023_51_p99_Nam.pdf",
+    "AI Applications": "['Medical Imaging AI']",
+    "Category": "Academic Institution",
+    "predicted_specialty": "oncology, dermatology",
+    "Year": 2023,
+    "Focus Areas": "Reliability and Performance, Transparency and Explainability, Ethics and Consent, Safety and Risk Management, Governance Committees",
+    "State": "",
+    "Title": [
+      "Skin Disease Classification Using Privacy-Preserving Federated Learning",
+      "font-size"
+    ],
+    "UsedFallback": false
+  },
+  {
+    "URL": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/1500-18/NIST.SP.1500-18r2.pdf",
+    "AI Applications": [],
+    "Category": "Federal",
+    "predicted_specialty": "unclassified",
+    "Year": 2023,
+    "Focus Areas": "Transparency and Explainability, Ethics and Consent, Safety and Risk Management, Governance Committees",
+    "State": "",
+    "Title": [
+      "NIST Research Data Framework (RDaF) Version 2.0",
+      "metadata"
+    ],
+    "UsedFallback": false
+  },
+  {
+    "URL": "https://assets.cureusjournals.com/artifacts/upload/editorial/pdf/3758/20250429-48604-appuuq.pdf",
+    "AI Applications": "['Education and Training AI', 'Patient-facing AI']",
+    "Category": "Academic Institution",
+    "predicted_specialty": "unclassified",
+    "Year": 2025,
+    "Focus Areas": "Bias and Fairness, Reliability and Performance, Privacy and Security, Transparency and Explainability, Ethics and Consent",
+    "State": "",
+    "Title": [
+      "Artificial Intelligence: Crossing a Threshold in Healthcare Education and Simulation",
+      "font-size"
+    ],
+    "UsedFallback": false
+  },
+  {
+    "URL": "https://www.cms.gov/outreach-and-education/medicare-learning-network-mln/mlnproducts/downloads/hipaaprivacyandsecurity.pdf",
+    "AI Applications": [],
+    "Category": "State",
+    "predicted_specialty": "unclassified",
+    "Year": 2025,
+    "Focus Areas": "Privacy and Security, Ethics and Consent, Safety and Risk Management",
+    "State": "",
+    "Title": [
+      "HIPAA Basics for Providers: Privacy, Security, & Breach Notification Rules",
+      "metadata"
+    ],
+    "UsedFallback": false
+  },
+  {
+    "URL": "https://static1.squarespace.com/static/603ab50ab81d5532a0a4a42b/t/64ee0fca5901b07239942211/1693323210917/EPRS_STU%282022%29729512_EN.pdf",
+    "AI Applications": "['Public Health AI', 'Operational and Administrative Automation', 'Patient-facing AI', 'Education and Training AI', 'Robotics and Surgical AI', 'Research and Clinical Trial AI', 'Clinical Decision Support', 'Clinical Documentation AI', 'Medical Imaging AI', 'Predictive Analytics']",
+    "Category": "Professional Medical Organization",
+    "predicted_specialty": "surgery, oncology, radiology, cardiology, pathology, gastroenterology, pulmonology, nephrology, psychiatry, neurology",
+    "Year": 2022,
+    "Focus Areas": "Bias and Fairness, Reliability and Performance, Privacy and Security, Transparency and Explainability, Ethics and Consent, Governance Committees",
+    "State": "",
+    "Title": [
+      "Artificial intelligence in healthcare",
+      "font-size"
+    ],
+    "UsedFallback": false
+  }
+]
