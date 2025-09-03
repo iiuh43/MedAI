@@ -1,0 +1,47 @@
+[
+  {
+    "URL": "https://oag.ca.gov/system/files/attachments/press-docs/Legal%20Advisory%20-%20Application%20of%20Existing%20CA%20Laws%20to%20Artificial%20Intelligence.pdf",
+    "AI Applications": [],
+    "Category": "State",
+    "predicted_specialty": "unclassified",
+    "Year": 2024,
+    "Focus Areas": "Bias and Fairness, Privacy and Security, Transparency and Explainability, Ethics and Consent, Safety and Risk Management, Governance Committees",
+    "State": "California"
+  },
+  {
+    "URL": "https://www.gwlr.org/wp-content/uploads/2023/03/91-Geo.-Wash.-L.-Rev.-79-2023.pdf",
+    "AI Applications": "['Patient-facing AI', 'Clinical Decision Support', 'Clinical Documentation AI', 'Medical Imaging AI', 'Robotics and Surgical AI', 'Education and Training AI', 'Operational and Administrative Automation', 'Research and Clinical Trial AI']",
+    "Category": "Academic Institution",
+    "predicted_specialty": "oncology, radiology, cardiology, dermatology, infectious_diseases",
+    "Year": 2023,
+    "Focus Areas": "Bias and Fairness, Reliability and Performance, Privacy and Security, Transparency and Explainability, Ethics and Consent, Safety and Risk Management, Governance Committees",
+    "State": ""
+  },
+  {
+    "URL": "http://large.stanford.edu/courses/2018/ph241/cheng1/docs/ai-eop-oct16.pdf",
+    "AI Applications": "['Education and Training AI', 'Clinical Decision Support', 'Research and Clinical Trial AI', 'Public Health AI']",
+    "Category": "Academic Institution",
+    "predicted_specialty": "neurology",
+    "Year": 2016,
+    "Focus Areas": "Bias and Fairness, Reliability and Performance, Privacy and Security, Transparency and Explainability, Ethics and Consent, Safety and Risk Management, Governance Committees",
+    "State": ""
+  },
+  {
+    "URL": "https://z-inspection.org/wp-content/uploads/2021/12/Laufenberg_Werthmann_Frederike_Teresa_20_05_21_master.pdf",
+    "AI Applications": "['Medical Imaging AI', 'Patient-facing AI', 'Robotics and Surgical AI', 'Operational and Administrative Automation']",
+    "Category": "Academic Institution",
+    "predicted_specialty": "cardiology",
+    "Year": 2021,
+    "Focus Areas": "Bias and Fairness, Reliability and Performance, Privacy and Security, Transparency and Explainability, Ethics and Consent, Safety and Risk Management, Governance Committees",
+    "State": ""
+  },
+  {
+    "URL": "https://www.uth.edu/it/review/uthealth-houston-it-review-2025.pdf",
+    "AI Applications": "['Clinical Decision Support']",
+    "Category": "Professional Medical Organization",
+    "predicted_specialty": "unclassified",
+    "Year": 2025,
+    "Focus Areas": "Bias and Fairness, Reliability and Performance, Privacy and Security, Transparency and Explainability, Ethics and Consent, Safety and Risk Management",
+    "State": ""
+  }
+]
