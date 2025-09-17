@@ -5,8 +5,6 @@ export const processedDocuments: Document[] = [
     id: "doc-1",
     title:
       "Artificial Intelligence and Machine Learning (AI/ML)-Based Medical Devices",
-    officialTitle:
-      "Artificial Intelligence and Machine Learning (AI/ML)-Based Medical Devices: Discussion Paper and Request for Feedback",
     url: "https://www.fda.gov/media/134572/download",
     aiApplications: [
       "Clinical Decision Support",
@@ -28,7 +26,6 @@ export const processedDocuments: Document[] = [
   {
     id: "doc-2",
     title: "Avenda Health AI Prostate Cancer Planning Software",
-    officialTitle: "K221624",
     url: "https://www.accessdata.fda.gov/cdrh_docs/pdf22/K221624.pdf",
     aiApplications: [],
     category: "Federal government",
@@ -46,8 +43,7 @@ export const processedDocuments: Document[] = [
   },
   {
     id: "doc-3",
-    title: "K193271",
-    officialTitle: "K193271",
+    title: "(FDA 510(k) submission K193271)",
     url: "https://www.accessdata.fda.gov/cdrh_docs/pdf19/K193271.pdf",
     aiApplications: [],
     category: "Federal government",
@@ -65,8 +61,7 @@ export const processedDocuments: Document[] = [
   },
   {
     id: "doc-4",
-    title: "405D Post Volxxv July 2024",
-    officialTitle: "405D Post Volxxv July 2024",
+    title: "The 405(d) Post: Volume XIX (July 2024)",
     url: "https://405d.hhs.gov/Documents/405d-post-volxxv-july-2024.pdf",
     aiApplications: [
       "Operational and Administrative Automation",
@@ -87,8 +82,8 @@ export const processedDocuments: Document[] = [
   },
   {
     id: "doc-5",
-    title: "Trustworthy Ai",
-    officialTitle: "Trustworthy Ai",
+    title:
+      "Trustworthy Artificial Intelligence (TAI) for Patient-Centered Outcomes Research (PCOR)",
     url: "https://aspe.hhs.gov/sites/default/files/documents/1348a9a067fd4d225981a822dfe25ea5/trustworthy-ai.pdf",
     aiApplications: [
       "Clinical Documentation AI",
@@ -114,9 +109,8 @@ export const processedDocuments: Document[] = [
   },
   {
     id: "doc-6",
-    title: "Gettingermoderatorslidesaipanelsforoncannualmeeting12720Final",
-    officialTitle:
-      "Gettingermoderatorslidesaipanelsforoncannualmeeting12720Final",
+    title:
+      "Artificial Intelligence in Health IT The Good, The Bad, The Ugly (Part 1)",
     url: "https://www.healthit.gov/sites/default/files/page/2020-02/GettingerModeratorSlidesAIPanelsforONCAnnualMeeting12720Final.pdf",
     aiApplications: [
       "Patient-facing AI",
@@ -140,8 +134,8 @@ export const processedDocuments: Document[] = [
   },
   {
     id: "doc-7",
-    title: "Onc Leap In Health It Sen Fy2021",
-    officialTitle: "Onc Leap In Health It Sen Fy2021",
+    title:
+      "The Office of the National Coordinator for Health Information Technology (ONC) Announces Special Emphasis Notice (SEN) Interest in Applications to Advance Health IT Standards and Tools to Improve Social Determinants of Health Data Exchange, and to Develop Tools for Making Electronic Health Records Data Research and Artificial Intelligence-Ready",
     url: "https://www.healthit.gov/sites/default/files/page/2021-02/ONC-LEAP-in-Health-IT-SEN-FY2021.pdf",
     aiApplications: ["Research and Clinical Trial AI", "Public Health AI"],
     category: "Federal government",
